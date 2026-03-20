@@ -1,0 +1,38 @@
+id_corredor,nombre,zona,nivel,anios_experiencia,motivo_rechazo
+4,Fernanda Rojas Cruz,No Especificado,Senior,8.0,zona_noEspecificada
+5,Ana Gomez Rojas,No Especificado,Senior,4.0,zona_noEspecificada
+6,Sofia Reyes Hernandez,Occidental,No Especificado,3.0,nivel_noEspecificado
+7,Pedro Vasquez Torres,Costa,No Especificado,1.0,nivel_noEspecificado
+10,Juan Cruz Castillo,Occidental,No Especificado,7.0,nivel_noEspecificado
+11,Jose Morales Flores,No Especificado,Junior,No Especificado,zona_noEspecificada;anios_experiencia_noEspecificados
+12,Pedro Gomez Vasquez,No Especificado,Mid,21.0,zona_noEspecificada
+15,Fernanda Cruz Reyes,Central,Mid,No Especificado,anios_experiencia_noEspecificados
+17,Jorge Reyes Ramirez,No Especificado,No Especificado,20.0,zona_noEspecificada;nivel_noEspecificado
+20,Pedro Cruz Perez,No Especificado,Junior,24.0,zona_noEspecificada
+21,Juan Hernandez Perez,Oriental,No Especificado,21.0,nivel_noEspecificado
+22,Andres Torres Garcia,Central,No Especificado,19.0,nivel_noEspecificado
+24,Jose Ortiz Flores,No Especificado,Junior,9.0,zona_noEspecificada
+26,Valeria Mendoza Gomez,Occidental,No Especificado,20.0,nivel_noEspecificado
+29,Ricardo Lopez Hernandez,No Especificado,No Especificado,25.0,zona_noEspecificada;nivel_noEspecificado
+34,Lucia Vasquez Chavez,No Especificado,Junior,7.0,zona_noEspecificada
+37,Juan Cruz Garcia,Central,No Especificado,10.0,nivel_noEspecificado
+39,Sofia Ortiz Perez,No Especificado,Mid,25.0,zona_noEspecificada
+41,Andres Vasquez Rojas,Central,No Especificado,99.0,nivel_noEspecificado
+44,Luis Rojas Gomez,Costa,No Especificado,7.0,nivel_noEspecificado
+48,Lucia Lopez Morales,Costa,No Especificado,25.0,nivel_noEspecificado
+49,Paula Castillo Rojas,No Especificado,Mid,6.0,zona_noEspecificada
+51,Juan Martinez Santos,No Especificado,Senior,99.0,zona_noEspecificada
+52,Daniela Gomez Martinez,Occidental,No Especificado,5.0,nivel_noEspecificado
+53,Maria Torres Garcia,Paracentral,No Especificado,3.0,nivel_noEspecificado
+55,Andres Santos Santos,No Especificado,Senior,6.0,zona_noEspecificada
+59,Daniela Flores Perez,No Especificado,Junior,7.0,zona_noEspecificada
+60,Pedro Castillo Gomez,No Especificado,No Especificado,17.0,zona_noEspecificada;nivel_noEspecificado
+61,Carlos Torres Mendoza,Central,Junior,No Especificado,anios_experiencia_noEspecificados
+65,Valeria Martinez Garcia,Central,No Especificado,8.0,nivel_noEspecificado
+68,Jose Garcia Perez,Central,No Especificado,11.0,nivel_noEspecificado
+70,Carlos Vasquez Martinez,No Especificado,Mid,21.0,zona_noEspecificada
+72,Luis Cruz Gomez,Oriental,No Especificado,0.0,nivel_noEspecificado
+74,Jose Morales Martinez,No Especificado,Mid,6.0,zona_noEspecificada
+76,Sofia Morales Reyes,Costa,No Especificado,2.0,nivel_noEspecificado
+77,Valeria Vasquez Mendoza,Central,Junior,No Especificado,anios_experiencia_noEspecificados
+80,Pedro Reyes Rojas,Occidental,No Especificado,18.0,nivel_noEspecificado
