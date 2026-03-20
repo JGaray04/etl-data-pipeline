@@ -1,0 +1,7 @@
+id_aseguradora,nombre,pais,rating_riesgo,motivo_rechazo
+3,Aseguradora_3,El Salvador,No Especificado,ratingRiesgo_noEspecificado
+6,Aseguradora_6,No Especificado,Medio,pais_noEspecificado
+9,Aseguradora_9,No Especificado,Bajo,pais_noEspecificado
+10,Aseguradora_10,Panama,No Especificado,ratingRiesgo_noEspecificado
+11,Aseguradora_11,Honduras,No Especificado,ratingRiesgo_noEspecificado
+14,Aseguradora_14,El Salvador,No Especificado,ratingRiesgo_noEspecificado
