@@ -1,0 +1,1963 @@
+id_siniestro,id_poliza,fecha_siniestro,monto_siniestro,estado,motivo_rechazo
+6,5107,2026-02-10,10535.74,No Especificado,estado_invalido
+9,18118,2025-08-27,,Cerrado,montoSiniestro_invalido
+12,4096,2026-02-23,,Rechazado,montoSiniestro_invalido
+14,8260,2025-09-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+16,16312,2025-10-02,,Abierto,montoSiniestro_invalido
+18,4445,2025-05-23,,No Especificado,montoSiniestro_invalido;estado_invalido
+20,21508,2025-08-29,8867.02,No Especificado,estado_invalido
+25,719,2025-12-25,3257.92,No Especificado,estado_invalido
+27,22625,2025-07-03,141.77,No Especificado,estado_invalido
+28,3123,2025-10-08,,Cerrado,montoSiniestro_invalido
+30,20396,2025-09-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+31,14500,2026-01-17,,Cerrado,montoSiniestro_invalido
+32,20349,2025-06-13,-6166.3,No Especificado,estado_invalido
+34,14393,2025-03-30,,Cerrado,montoSiniestro_invalido
+39,551,2025-03-26,,Abierto,montoSiniestro_invalido
+41,4657,2025-12-25,9268.6,No Especificado,estado_invalido
+42,3586,2026-01-31,11247.07,No Especificado,estado_invalido
+46,2860,2025-07-13,,Rechazado,montoSiniestro_invalido
+49,12852,2025-01-11,4828.13,No Especificado,estado_invalido
+50,25778,2025-10-18,11437.5,No Especificado,estado_invalido
+51,1344,2025-08-15,14278.06,No Especificado,estado_invalido
+55,19232,2025-03-25,5517.33,No Especificado,estado_invalido
+56,14610,2025-11-27,,Abierto,montoSiniestro_invalido
+58,9803,2025-03-23,,No Especificado,montoSiniestro_invalido;estado_invalido
+61,16070,2025-12-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+63,22281,2025-07-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+68,4916,2025-11-20,5792.24,No Especificado,estado_invalido
+69,14892,2025-09-21,14508.66,No Especificado,estado_invalido
+71,19836,2025-01-14,5377.67,No Especificado,estado_invalido
+72,23320,2026-02-20,7245.79,No Especificado,estado_invalido
+76,18282,2025-08-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+80,23359,2025-02-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+81,10359,2025-10-20,,Cerrado,montoSiniestro_invalido
+82,4048,2026-02-21,9909.58,No Especificado,estado_invalido
+83,16988,2025-07-07,14090.71,No Especificado,estado_invalido
+85,7153,2026-01-23,5079.34,No Especificado,estado_invalido
+86,25554,2025-03-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+92,13736,2025-03-28,,No Especificado,montoSiniestro_invalido;estado_invalido
+94,15160,2025-01-14,3322.55,No Especificado,estado_invalido
+95,17219,2025-01-04,4580.14,No Especificado,estado_invalido
+97,13086,2025-01-01,,Rechazado,montoSiniestro_invalido
+98,19925,2025-01-25,1228.19,No Especificado,estado_invalido
+100,24052,2025-03-16,2342.67,No Especificado,estado_invalido
+103,19170,2026-02-01,10183.94,No Especificado,estado_invalido
+104,1153,2025-02-05,2580.4,No Especificado,estado_invalido
+107,17613,2025-06-20,11560.34,No Especificado,estado_invalido
+108,1500,2025-01-01,,Abierto,montoSiniestro_invalido
+116,8222,2025-05-04,,Abierto,montoSiniestro_invalido
+117,12941,2025-12-12,,Abierto,montoSiniestro_invalido
+118,21719,2025-02-28,,Abierto,montoSiniestro_invalido
+119,1874,2025-07-26,5171.14,No Especificado,estado_invalido
+122,16832,2025-09-03,7489.48,No Especificado,estado_invalido
+124,4535,2025-12-15,9389.56,No Especificado,estado_invalido
+128,24167,2025-09-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+130,14357,2025-08-30,,Rechazado,montoSiniestro_invalido
+131,21837,2025-05-09,13932.1,No Especificado,estado_invalido
+132,1290,2025-03-01,9918.51,No Especificado,estado_invalido
+133,5720,2025-02-28,,Abierto,montoSiniestro_invalido
+134,7223,2025-04-22,,Abierto,montoSiniestro_invalido
+142,14587,2026-02-17,,Abierto,montoSiniestro_invalido
+143,2790,2025-10-13,,Rechazado,montoSiniestro_invalido
+148,9556,2025-06-19,,Cerrado,montoSiniestro_invalido
+153,7402,2025-03-26,,Abierto,montoSiniestro_invalido
+154,11333,2026-01-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+155,17654,2025-03-22,13419.79,No Especificado,estado_invalido
+161,12821,2025-01-29,1663.96,No Especificado,estado_invalido
+163,3344,2026-02-01,,Cerrado,montoSiniestro_invalido
+166,3400,2025-10-30,11123.38,No Especificado,estado_invalido
+170,14794,2025-12-30,,Abierto,montoSiniestro_invalido
+175,6907,2025-06-12,12028.02,No Especificado,estado_invalido
+177,15938,2025-11-25,13797.55,No Especificado,estado_invalido
+179,12699,2026-01-22,1452.35,No Especificado,estado_invalido
+180,13273,2025-01-15,14255.51,No Especificado,estado_invalido
+183,15820,2025-06-27,,Rechazado,montoSiniestro_invalido
+186,14257,2026-01-14,,Abierto,montoSiniestro_invalido
+188,9285,2025-07-04,3554.71,No Especificado,estado_invalido
+189,11691,2026-01-17,,Abierto,montoSiniestro_invalido
+190,15565,2025-06-23,,Abierto,montoSiniestro_invalido
+193,19056,2025-02-12,,Abierto,montoSiniestro_invalido
+197,5812,2025-07-08,12806.56,No Especificado,estado_invalido
+199,15158,2025-09-12,,Abierto,montoSiniestro_invalido
+201,10253,2026-01-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+202,6793,2025-08-30,,Cerrado,montoSiniestro_invalido
+204,11440,2025-01-28,,Rechazado,montoSiniestro_invalido
+209,16837,2025-08-20,11810.11,No Especificado,estado_invalido
+212,14352,2025-05-18,8847.32,No Especificado,estado_invalido
+216,8726,2025-07-23,4346.45,No Especificado,estado_invalido
+219,25727,2026-02-04,,Cerrado,montoSiniestro_invalido
+223,2629,2025-08-10,3642.77,No Especificado,estado_invalido
+225,19366,2025-05-20,851.04,No Especificado,estado_invalido
+228,9398,2025-09-26,,Abierto,montoSiniestro_invalido
+234,16501,2025-04-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+236,22678,2025-11-11,,Abierto,montoSiniestro_invalido
+237,24184,2025-07-13,13713.94,No Especificado,estado_invalido
+238,19973,2025-08-01,,Rechazado,montoSiniestro_invalido
+239,22979,2025-11-05,,Cerrado,montoSiniestro_invalido
+240,15810,2025-03-10,,Rechazado,montoSiniestro_invalido
+243,9965,2025-02-27,4275.37,No Especificado,estado_invalido
+244,3256,2025-07-09,,Abierto,montoSiniestro_invalido
+247,23410,2025-04-29,8598.25,No Especificado,estado_invalido
+249,18003,2025-08-02,14986.14,No Especificado,estado_invalido
+250,2158,2025-05-20,,Abierto,montoSiniestro_invalido
+251,21022,2025-07-18,,Rechazado,montoSiniestro_invalido
+255,24181,2025-09-02,3638.1,No Especificado,estado_invalido
+256,1939,2025-11-03,7149.72,No Especificado,estado_invalido
+260,17781,2025-03-11,14206.04,No Especificado,estado_invalido
+262,17232,2025-02-27,,Abierto,montoSiniestro_invalido
+264,13686,2025-09-10,,Abierto,montoSiniestro_invalido
+267,13995,2025-09-08,6273.55,No Especificado,estado_invalido
+269,20302,2025-11-29,12935.03,No Especificado,estado_invalido
+271,16423,2025-06-10,12531.38,No Especificado,estado_invalido
+274,22521,2025-09-12,6246.09,No Especificado,estado_invalido
+277,4835,2025-11-21,10216.4,No Especificado,estado_invalido
+278,12350,2026-02-02,2215.15,No Especificado,estado_invalido
+280,3145,2025-08-11,2935.1,No Especificado,estado_invalido
+283,17276,2025-04-06,8841.01,No Especificado,estado_invalido
+291,367,2025-12-04,9606.53,No Especificado,estado_invalido
+293,10362,2025-09-24,8077.52,No Especificado,estado_invalido
+296,2362,2026-11-01,,Rechazado,montoSiniestro_invalido
+298,6809,2025-10-20,1486.47,No Especificado,estado_invalido
+302,22748,2025-12-04,5352.07,No Especificado,estado_invalido
+303,1719,2025-11-14,,Abierto,montoSiniestro_invalido
+305,13740,2025-12-25,,Abierto,montoSiniestro_invalido
+306,11979,2025-05-24,3782.57,No Especificado,estado_invalido
+307,9896,2026-02-19,9098.49,No Especificado,estado_invalido
+308,15831,2025-06-07,4383.22,No Especificado,estado_invalido
+310,18660,2025-11-24,7735.22,No Especificado,estado_invalido
+313,12886,2025-03-26,,Abierto,montoSiniestro_invalido
+314,6169,2025-08-08,,Cerrado,montoSiniestro_invalido
+316,19243,2025-11-19,2098.28,No Especificado,estado_invalido
+317,7504,2025-06-12,6038.6,No Especificado,estado_invalido
+319,4709,2025-07-17,,Cerrado,montoSiniestro_invalido
+323,17082,2025-11-05,11204.61,No Especificado,estado_invalido
+325,25648,2025-11-14,-12908.94,No Especificado,estado_invalido
+326,6507,2025-11-06,6243.4,No Especificado,estado_invalido
+330,13177,2025-09-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+331,16704,2025-08-12,,No Especificado,montoSiniestro_invalido;estado_invalido
+336,23055,2025-12-29,,No Especificado,montoSiniestro_invalido;estado_invalido
+337,15288,2025-02-20,4485.08,No Especificado,estado_invalido
+338,13062,2025-08-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+341,21940,2025-03-23,11851.07,No Especificado,estado_invalido
+342,5070,2025-11-22,6723.23,No Especificado,estado_invalido
+347,18616,2025-07-13,,Cerrado,montoSiniestro_invalido
+348,3786,2026-09-02,3564.35,No Especificado,estado_invalido
+351,4779,2025-05-29,,Cerrado,montoSiniestro_invalido
+353,21230,2025-10-14,,Abierto,montoSiniestro_invalido
+355,23407,2025-09-08,,Cerrado,montoSiniestro_invalido
+357,3742,2026-01-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+358,5810,2025-11-18,6718.36,No Especificado,estado_invalido
+362,18426,2025-04-19,,Abierto,montoSiniestro_invalido
+364,16748,2025-08-24,7756.38,No Especificado,estado_invalido
+374,24381,2025-07-27,,Abierto,montoSiniestro_invalido
+376,18210,2025-04-21,13180.58,No Especificado,estado_invalido
+380,19177,2025-11-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+381,18189,2026-01-31,,Cerrado,montoSiniestro_invalido
+382,13149,2026-02-13,5788.34,No Especificado,estado_invalido
+383,3726,2026-02-08,,Cerrado,montoSiniestro_invalido
+385,3696,2026-12-02,2099.51,No Especificado,estado_invalido
+386,20394,2026-01-19,,No Especificado,montoSiniestro_invalido;estado_invalido
+387,7121,2025-03-16,101.74,No Especificado,estado_invalido
+388,8625,2025-10-30,4076.28,No Especificado,estado_invalido
+391,24690,2025-01-25,5736.62,No Especificado,estado_invalido
+393,19824,2025-11-11,,No Especificado,montoSiniestro_invalido;estado_invalido
+394,7220,2025-07-25,6657.59,No Especificado,estado_invalido
+400,6936,2025-02-08,8411.6,No Especificado,estado_invalido
+401,12559,2025-01-26,,Rechazado,montoSiniestro_invalido
+402,22663,2025-04-29,11363.64,No Especificado,estado_invalido
+404,4048,2025-12-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+407,15499,2026-07-02,,Abierto,montoSiniestro_invalido
+408,15018,2026-02-19,13987.17,No Especificado,estado_invalido
+410,20008,2025-06-09,908.44,No Especificado,estado_invalido
+411,15930,2025-09-21,,Abierto,montoSiniestro_invalido
+414,1039,2025-11-28,6928.26,No Especificado,estado_invalido
+415,10705,2025-10-03,4372.08,No Especificado,estado_invalido
+418,19027,2025-02-20,,Abierto,montoSiniestro_invalido
+421,5615,2025-09-23,9744.9,No Especificado,estado_invalido
+423,11261,2025-03-24,,Abierto,montoSiniestro_invalido
+427,19205,2026-01-05,8961.5,No Especificado,estado_invalido
+428,20511,2025-09-12,1741.82,No Especificado,estado_invalido
+429,10083,2025-08-08,4186.36,No Especificado,estado_invalido
+431,16556,2025-10-30,,Cerrado,montoSiniestro_invalido
+435,15659,2025-02-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+436,4058,2026-01-07,13142.69,No Especificado,estado_invalido
+438,20439,2025-09-22,,Cerrado,montoSiniestro_invalido
+439,23475,2025-01-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+443,11757,2025-06-27,7553.76,No Especificado,estado_invalido
+444,23715,2025-02-19,2748.13,No Especificado,estado_invalido
+445,7801,2025-01-27,,Rechazado,montoSiniestro_invalido
+446,849,2025-07-07,966.15,No Especificado,estado_invalido
+447,24783,2025-05-16,3775.66,No Especificado,estado_invalido
+452,1835,2025-04-14,6449.29,No Especificado,estado_invalido
+453,14614,2025-10-12,5081.75,No Especificado,estado_invalido
+454,18671,2025-05-17,14655.73,No Especificado,estado_invalido
+455,11674,2025-05-22,,Cerrado,montoSiniestro_invalido
+456,6812,2026-02-24,10457.09,No Especificado,estado_invalido
+457,4234,2025-10-22,,Rechazado,montoSiniestro_invalido
+458,22894,2025-11-16,13379.41,No Especificado,estado_invalido
+459,19084,2025-06-05,11662.9,No Especificado,estado_invalido
+460,9557,2025-03-07,11367.71,No Especificado,estado_invalido
+461,9517,2025-10-27,,No Especificado,montoSiniestro_invalido;estado_invalido
+469,10808,2025-12-30,3705.92,No Especificado,estado_invalido
+474,12213,2025-05-04,,No Especificado,montoSiniestro_invalido;estado_invalido
+475,13039,2025-10-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+476,4147,2025-09-01,,Rechazado,montoSiniestro_invalido
+479,4770,2025-07-06,,Cerrado,montoSiniestro_invalido
+480,23674,2025-06-27,192.04,No Especificado,estado_invalido
+481,5991,2025-08-25,,Rechazado,montoSiniestro_invalido
+483,1067,2025-07-27,5411.94,No Especificado,estado_invalido
+485,23236,2025-08-13,9341.17,No Especificado,estado_invalido
+488,7922,2025-05-08,,Abierto,montoSiniestro_invalido
+490,9596,2025-07-24,-6745.26,No Especificado,estado_invalido
+493,12637,2025-01-24,13814.68,No Especificado,estado_invalido
+495,3898,2025-10-29,12255.39,No Especificado,estado_invalido
+497,17866,2026-01-28,5018.42,No Especificado,estado_invalido
+498,16934,2025-09-29,6665.81,No Especificado,estado_invalido
+506,23610,2025-02-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+507,14126,2026-01-26,7410.93,No Especificado,estado_invalido
+508,11505,2025-04-17,4336.27,No Especificado,estado_invalido
+509,9632,2026-01-24,11512.22,No Especificado,estado_invalido
+510,24704,2025-05-08,,Abierto,montoSiniestro_invalido
+511,9290,2025-01-30,2170.06,No Especificado,estado_invalido
+513,19811,2025-09-01,,Abierto,montoSiniestro_invalido
+514,749,2026-01-26,,Abierto,montoSiniestro_invalido
+516,18551,2025-01-03,3577.31,No Especificado,estado_invalido
+517,19123,2026-02-24,,Rechazado,montoSiniestro_invalido
+518,5192,2025-03-14,,Cerrado,montoSiniestro_invalido
+524,3266,2025-04-19,,Abierto,montoSiniestro_invalido
+528,21844,2026-01-16,1897.7,No Especificado,estado_invalido
+531,16681,2025-10-21,,Cerrado,montoSiniestro_invalido
+541,17082,2025-04-25,12640.91,No Especificado,estado_invalido
+542,13402,2025-07-02,6580.87,No Especificado,estado_invalido
+543,22193,2025-07-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+548,320,2025-07-13,6636.52,No Especificado,estado_invalido
+554,25784,2025-10-05,,Cerrado,montoSiniestro_invalido
+556,6947,2025-12-13,,Abierto,montoSiniestro_invalido
+559,24920,2026-01-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+565,19612,2025-01-24,,Rechazado,montoSiniestro_invalido
+567,21236,2025-09-30,542.33,No Especificado,estado_invalido
+568,7634,2025-01-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+569,13976,2025-08-12,11416.44,No Especificado,estado_invalido
+574,21648,2025-06-23,,Cerrado,montoSiniestro_invalido
+581,17730,2025-08-18,6180.21,No Especificado,estado_invalido
+584,7265,2025-05-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+587,22918,2025-10-26,2427.43,No Especificado,estado_invalido
+592,11961,2025-10-12,8976.92,No Especificado,estado_invalido
+593,25605,2025-04-02,6324.53,No Especificado,estado_invalido
+595,16802,2025-03-01,,Cerrado,montoSiniestro_invalido
+597,22326,2025-09-16,11586.97,No Especificado,estado_invalido
+600,25582,2025-09-28,13159.89,No Especificado,estado_invalido
+601,12091,2025-02-03,,Abierto,montoSiniestro_invalido
+602,11450,2025-10-07,5353.0,No Especificado,estado_invalido
+604,1034,2026-01-16,7672.14,No Especificado,estado_invalido
+605,24391,2025-07-23,,Cerrado,montoSiniestro_invalido
+606,9853,2025-08-13,13270.26,No Especificado,estado_invalido
+607,7941,2026-01-15,2490.28,No Especificado,estado_invalido
+611,17162,2026-02-15,,Abierto,montoSiniestro_invalido
+612,3316,2025-08-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+617,17670,2025-03-02,,Rechazado,montoSiniestro_invalido
+618,1023,2025-02-02,,Rechazado,montoSiniestro_invalido
+621,2841,2025-01-11,5695.4,No Especificado,estado_invalido
+622,1623,2026-01-02,8782.83,No Especificado,estado_invalido
+623,10760,2025-03-09,14910.95,No Especificado,estado_invalido
+625,24203,2025-06-21,,Rechazado,montoSiniestro_invalido
+628,23681,2026-01-27,,No Especificado,montoSiniestro_invalido;estado_invalido
+629,9818,2025-08-11,,Abierto,montoSiniestro_invalido
+630,1708,2026-02-13,11486.29,No Especificado,estado_invalido
+632,14193,2025-08-21,2506.71,No Especificado,estado_invalido
+634,18267,2025-12-31,6524.1,No Especificado,estado_invalido
+636,22410,2025-02-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+639,10248,2025-04-07,1516.11,No Especificado,estado_invalido
+644,21088,2025-11-26,5253.85,No Especificado,estado_invalido
+647,22110,2025-08-19,,Cerrado,montoSiniestro_invalido
+651,16433,2025-06-26,10165.98,No Especificado,estado_invalido
+652,8973,2026-01-19,,Abierto,montoSiniestro_invalido
+653,8325,2025-11-29,3436.47,No Especificado,estado_invalido
+654,19098,2025-01-28,11940.83,No Especificado,estado_invalido
+656,7208,2025-03-11,10346.31,No Especificado,estado_invalido
+661,6981,2025-10-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+662,15605,2025-12-16,,Abierto,montoSiniestro_invalido
+663,15104,2025-04-12,13252.17,No Especificado,estado_invalido
+664,5731,2026-02-21,5577.51,No Especificado,estado_invalido
+666,10515,2025-11-01,1415.47,No Especificado,estado_invalido
+668,12401,2025-01-04,,Rechazado,montoSiniestro_invalido
+671,9678,2025-07-02,3157.22,No Especificado,estado_invalido
+672,18183,2025-03-26,14404.32,No Especificado,estado_invalido
+675,4118,2026-01-30,11468.98,No Especificado,estado_invalido
+676,25652,2025-11-12,4329.18,No Especificado,estado_invalido
+679,777,2025-01-27,5565.28,No Especificado,estado_invalido
+681,6234,2025-10-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+686,20908,2025-11-06,7236.55,No Especificado,estado_invalido
+687,15875,2025-06-18,,Rechazado,montoSiniestro_invalido
+688,9946,2025-01-14,10893.34,No Especificado,estado_invalido
+691,12163,2025-11-04,,Abierto,montoSiniestro_invalido
+695,21466,2025-11-28,3201.99,No Especificado,estado_invalido
+696,7945,2025-09-18,7898.62,No Especificado,estado_invalido
+698,18567,2025-01-20,,Cerrado,montoSiniestro_invalido
+700,19484,2025-01-03,5388.51,No Especificado,estado_invalido
+701,10012,2025-12-02,5662.35,No Especificado,estado_invalido
+703,6331,2025-10-02,2355.04,No Especificado,estado_invalido
+704,13263,2025-11-17,,Cerrado,montoSiniestro_invalido
+708,25560,2026-02-02,,Rechazado,montoSiniestro_invalido
+709,16266,2025-01-16,,Cerrado,montoSiniestro_invalido
+710,24697,2025-02-12,10893.55,No Especificado,estado_invalido
+711,24433,2025-10-16,,Cerrado,montoSiniestro_invalido
+716,12752,2025-09-16,118.87,No Especificado,estado_invalido
+717,17888,2025-06-29,,No Especificado,montoSiniestro_invalido;estado_invalido
+725,9321,2026-02-01,7244.32,No Especificado,estado_invalido
+726,20483,2026-01-31,,Rechazado,montoSiniestro_invalido
+728,19693,2025-02-08,2934.75,No Especificado,estado_invalido
+730,16114,2025-01-18,,Abierto,montoSiniestro_invalido
+734,906,2025-06-07,3328.44,No Especificado,estado_invalido
+735,10034,2025-05-15,325.07,No Especificado,estado_invalido
+738,21149,2025-04-09,12608.36,No Especificado,estado_invalido
+740,10643,2025-02-04,,Cerrado,montoSiniestro_invalido
+741,22401,2025-12-21,5135.94,No Especificado,estado_invalido
+742,6027,2025-12-03,8073.42,No Especificado,estado_invalido
+743,17172,2025-09-05,3761.89,No Especificado,estado_invalido
+746,10464,2025-09-02,,Cerrado,montoSiniestro_invalido
+751,19485,2025-08-04,11169.95,No Especificado,estado_invalido
+752,3750,2025-01-10,12176.52,No Especificado,estado_invalido
+754,6917,2025-07-23,14564.02,No Especificado,estado_invalido
+756,14767,2026-02-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+758,20407,2025-08-31,,Rechazado,montoSiniestro_invalido
+759,8302,2025-09-19,3052.94,No Especificado,estado_invalido
+760,20684,2025-08-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+762,18894,2025-09-23,11117.21,No Especificado,estado_invalido
+763,21471,2025-12-02,7154.89,No Especificado,estado_invalido
+765,23282,2025-01-19,1172.2,No Especificado,estado_invalido
+766,11542,2025-11-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+771,25633,2025-12-10,,Cerrado,montoSiniestro_invalido
+773,20762,2025-12-16,7728.89,No Especificado,estado_invalido
+777,25653,2025-10-10,13048.69,No Especificado,estado_invalido
+778,466,2025-07-30,14257.82,No Especificado,estado_invalido
+779,6799,2025-07-08,,Abierto,montoSiniestro_invalido
+783,16516,2025-04-17,7253.18,No Especificado,estado_invalido
+784,8863,2025-12-05,,Cerrado,montoSiniestro_invalido
+785,13180,2025-04-06,8136.02,No Especificado,estado_invalido
+786,19362,2025-11-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+788,19721,2025-10-06,,Cerrado,montoSiniestro_invalido
+790,9179,2026-11-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+791,786,2025-11-14,11956.55,No Especificado,estado_invalido
+792,19152,2026-03-01,8222.52,No Especificado,estado_invalido
+793,9967,2025-10-15,6943.75,No Especificado,estado_invalido
+806,23617,2025-10-11,10174.82,No Especificado,estado_invalido
+808,8362,2025-05-15,14553.74,No Especificado,estado_invalido
+814,6170,2026-07-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+816,22324,2025-02-14,10355.24,No Especificado,estado_invalido
+817,5151,2026-03-02,,Cerrado,montoSiniestro_invalido
+821,17238,2025-11-30,,Abierto,montoSiniestro_invalido
+825,22006,2025-10-23,5117.41,No Especificado,estado_invalido
+828,2640,2026-05-01,8600.05,No Especificado,estado_invalido
+829,17197,2025-12-12,6676.28,No Especificado,estado_invalido
+830,11751,2025-04-09,,Abierto,montoSiniestro_invalido
+834,4637,2026-02-16,,Abierto,montoSiniestro_invalido
+835,16319,2025-10-18,9169.42,No Especificado,estado_invalido
+838,1618,2025-12-09,,Abierto,montoSiniestro_invalido
+839,5627,2025-05-13,,Abierto,montoSiniestro_invalido
+840,12030,2025-07-30,,Rechazado,montoSiniestro_invalido
+843,6564,2025-12-21,13205.44,No Especificado,estado_invalido
+847,20614,2025-01-11,11042.11,No Especificado,estado_invalido
+848,25755,2026-02-02,,Cerrado,montoSiniestro_invalido
+854,7708,2026-11-02,-14084.73,No Especificado,estado_invalido
+861,12983,2025-11-11,,Rechazado,montoSiniestro_invalido
+862,18675,2026-02-10,10467.37,No Especificado,estado_invalido
+865,21386,2025-06-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+868,6666,2026-02-02,853.04,No Especificado,estado_invalido
+869,12599,2025-12-19,,Abierto,montoSiniestro_invalido
+871,20090,2025-01-03,,Rechazado,montoSiniestro_invalido
+876,20967,2025-08-19,1786.91,No Especificado,estado_invalido
+877,7112,2025-10-13,9381.6,No Especificado,estado_invalido
+879,15051,2025-06-13,10473.53,No Especificado,estado_invalido
+880,11799,2025-03-15,,Cerrado,montoSiniestro_invalido
+884,2828,2025-07-16,,Cerrado,montoSiniestro_invalido
+885,12659,2025-03-03,9224.07,No Especificado,estado_invalido
+886,9085,2025-04-22,,No Especificado,montoSiniestro_invalido;estado_invalido
+888,13722,2025-11-07,698.38,No Especificado,estado_invalido
+891,5149,2025-11-12,8959.0,No Especificado,estado_invalido
+892,477,2025-03-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+893,15751,2025-10-16,4979.42,No Especificado,estado_invalido
+894,20520,2026-05-01,5313.13,No Especificado,estado_invalido
+896,19486,2025-01-15,,Rechazado,montoSiniestro_invalido
+898,9095,2025-06-22,12669.98,No Especificado,estado_invalido
+902,6042,2026-02-19,2072.73,No Especificado,estado_invalido
+907,10899,2025-10-03,,Abierto,montoSiniestro_invalido
+908,22889,2025-03-31,,Abierto,montoSiniestro_invalido
+910,15374,2025-02-10,,Abierto,montoSiniestro_invalido
+911,7753,2025-01-29,,No Especificado,montoSiniestro_invalido;estado_invalido
+912,7100,2025-04-17,,Rechazado,montoSiniestro_invalido
+915,22534,2025-05-09,,Abierto,montoSiniestro_invalido
+917,6888,2025-05-01,12592.6,No Especificado,estado_invalido
+920,13269,2025-09-18,8357.84,No Especificado,estado_invalido
+924,4758,2025-09-11,-1173.6,No Especificado,estado_invalido
+926,12960,2025-05-17,,Cerrado,montoSiniestro_invalido
+927,9497,2026-01-01,8756.13,No Especificado,estado_invalido
+929,7077,2025-03-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+930,19882,2026-01-17,7930.85,No Especificado,estado_invalido
+931,10395,2025-06-18,9407.13,No Especificado,estado_invalido
+933,21679,2025-02-07,8414.42,No Especificado,estado_invalido
+934,8280,2025-07-14,,Rechazado,montoSiniestro_invalido
+938,21310,2026-02-24,1907.58,No Especificado,estado_invalido
+939,22950,2025-09-14,10651.65,No Especificado,estado_invalido
+942,20787,2025-09-30,3926.48,No Especificado,estado_invalido
+943,21096,2025-05-31,,Cerrado,montoSiniestro_invalido
+944,16392,2025-02-11,,Cerrado,montoSiniestro_invalido
+947,25720,2025-09-26,,Cerrado,montoSiniestro_invalido
+950,12819,2025-06-29,,No Especificado,montoSiniestro_invalido;estado_invalido
+951,23831,2026-01-17,,Rechazado,montoSiniestro_invalido
+952,9363,2025-08-01,,Abierto,montoSiniestro_invalido
+956,2405,2025-05-20,,Rechazado,montoSiniestro_invalido
+958,7503,2025-06-20,11063.01,No Especificado,estado_invalido
+959,23727,2026-02-01,,Abierto,montoSiniestro_invalido
+960,1448,2026-01-21,10946.39,No Especificado,estado_invalido
+961,7305,2025-03-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+962,6145,2025-07-24,,Abierto,montoSiniestro_invalido
+963,23266,2025-10-23,,Cerrado,montoSiniestro_invalido
+964,17969,2025-04-27,,Cerrado,montoSiniestro_invalido
+969,16047,2025-04-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+973,826,2025-12-03,8506.95,No Especificado,estado_invalido
+974,9936,2025-08-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+975,21736,2025-08-23,12466.51,No Especificado,estado_invalido
+976,13491,2025-09-19,14763.99,No Especificado,estado_invalido
+979,21383,2025-08-13,,Abierto,montoSiniestro_invalido
+980,12364,2025-08-06,,Abierto,montoSiniestro_invalido
+984,23321,2025-06-29,6275.77,No Especificado,estado_invalido
+985,13966,2025-11-30,,Abierto,montoSiniestro_invalido
+986,11266,2025-05-02,10351.13,No Especificado,estado_invalido
+991,22158,2025-08-26,7637.27,No Especificado,estado_invalido
+992,2475,2025-05-10,,Abierto,montoSiniestro_invalido
+994,14120,2025-11-24,,Abierto,montoSiniestro_invalido
+997,24838,2025-11-15,,Abierto,montoSiniestro_invalido
+999,25689,2026-01-03,,Abierto,montoSiniestro_invalido
+1000,18897,2025-12-29,354.26,No Especificado,estado_invalido
+1001,3875,2025-07-22,4027.89,No Especificado,estado_invalido
+1002,17643,2025-02-10,,Cerrado,montoSiniestro_invalido
+1005,1804,2025-09-06,11494.27,No Especificado,estado_invalido
+1006,13101,2025-11-17,8980.27,No Especificado,estado_invalido
+1008,23461,2026-02-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+1013,20157,2025-06-12,,Cerrado,montoSiniestro_invalido
+1014,1892,2025-01-18,,Abierto,montoSiniestro_invalido
+1015,3822,2025-11-09,4198.73,No Especificado,estado_invalido
+1017,25716,2025-03-30,,Cerrado,montoSiniestro_invalido
+1019,17243,2025-03-15,7585.45,No Especificado,estado_invalido
+1020,20476,2025-01-08,9638.23,No Especificado,estado_invalido
+1021,6409,2025-09-06,,Abierto,montoSiniestro_invalido
+1026,12458,2025-11-02,,Cerrado,montoSiniestro_invalido
+1028,3752,2025-01-03,,Abierto,montoSiniestro_invalido
+1030,24881,2026-04-01,427.88,No Especificado,estado_invalido
+1031,15756,2025-07-01,3056.54,No Especificado,estado_invalido
+1033,4230,2025-01-22,11481.62,No Especificado,estado_invalido
+1035,12033,2025-05-12,,Cerrado,montoSiniestro_invalido
+1039,25599,2026-01-14,,Cerrado,montoSiniestro_invalido
+1044,22668,2025-05-11,930.74,No Especificado,estado_invalido
+1045,10458,2025-05-19,5355.52,No Especificado,estado_invalido
+1046,6717,2025-01-20,,Abierto,montoSiniestro_invalido
+1055,20636,2025-10-31,8440.05,No Especificado,estado_invalido
+1059,14253,2025-08-26,,Rechazado,montoSiniestro_invalido
+1060,19021,2025-03-10,6011.35,No Especificado,estado_invalido
+1062,9345,2025-12-17,,No Especificado,montoSiniestro_invalido;estado_invalido
+1063,10311,2025-03-30,506.85,No Especificado,estado_invalido
+1064,20345,2025-08-26,,Cerrado,montoSiniestro_invalido
+1066,13573,2025-09-18,,Rechazado,montoSiniestro_invalido
+1070,14008,2025-10-15,13456.22,No Especificado,estado_invalido
+1076,18032,2025-09-01,7758.51,No Especificado,estado_invalido
+1078,13241,2025-11-09,7515.7,No Especificado,estado_invalido
+1081,7513,2025-08-04,,Abierto,montoSiniestro_invalido
+1082,5493,2025-01-08,14666.07,No Especificado,estado_invalido
+1086,20808,2025-05-25,,Cerrado,montoSiniestro_invalido
+1091,5775,2026-02-21,2220.73,No Especificado,estado_invalido
+1092,17119,2025-03-18,,Abierto,montoSiniestro_invalido
+1094,3560,2025-02-23,,No Especificado,montoSiniestro_invalido;estado_invalido
+1096,6981,2026-01-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+1097,8950,2025-11-02,4937.18,No Especificado,estado_invalido
+1105,18411,2025-05-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+1106,11451,2025-04-13,5959.99,No Especificado,estado_invalido
+1111,14354,2025-03-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+1113,24868,2025-11-13,6794.36,No Especificado,estado_invalido
+1114,17658,2025-09-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+1117,21480,2025-05-05,,Cerrado,montoSiniestro_invalido
+1118,23771,2025-03-31,8827.3,No Especificado,estado_invalido
+1120,13861,2025-01-30,11213.71,No Especificado,estado_invalido
+1124,3461,2025-07-29,10686.06,No Especificado,estado_invalido
+1126,3841,2025-05-28,,Cerrado,montoSiniestro_invalido
+1127,10355,2025-02-15,,Rechazado,montoSiniestro_invalido
+1129,9207,2026-02-11,1999.09,No Especificado,estado_invalido
+1132,23813,2025-10-10,13473.39,No Especificado,estado_invalido
+1133,16811,2025-02-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+1134,5072,2025-06-16,,Cerrado,montoSiniestro_invalido
+1136,11801,2025-07-05,5310.68,No Especificado,estado_invalido
+1146,15338,2025-04-06,1484.94,No Especificado,estado_invalido
+1150,23730,2025-06-11,,No Especificado,montoSiniestro_invalido;estado_invalido
+1153,14250,2025-01-26,12636.25,No Especificado,estado_invalido
+1156,15020,2025-09-24,,Cerrado,montoSiniestro_invalido
+1157,11302,2025-03-11,,Abierto,montoSiniestro_invalido
+1160,1948,2026-01-23,9201.13,No Especificado,estado_invalido
+1162,12743,2025-10-17,9761.68,No Especificado,estado_invalido
+1163,10671,2025-10-26,9755.75,No Especificado,estado_invalido
+1165,9198,2025-03-14,,Cerrado,montoSiniestro_invalido
+1168,19075,2025-04-30,,Abierto,montoSiniestro_invalido
+1172,10330,2025-09-14,,Rechazado,montoSiniestro_invalido
+1174,13,2026-01-05,,No Especificado,montoSiniestro_invalido;estado_invalido
+1176,4604,2025-11-17,768.24,No Especificado,estado_invalido
+1182,24739,2025-03-15,,Abierto,montoSiniestro_invalido
+1184,15381,2025-06-26,2152.09,No Especificado,estado_invalido
+1185,15619,2025-01-31,5907.17,No Especificado,estado_invalido
+1187,20954,2025-05-19,4227.36,No Especificado,estado_invalido
+1190,2561,2025-07-21,9708.16,No Especificado,estado_invalido
+1191,24567,2025-09-12,8626.26,No Especificado,estado_invalido
+1194,12360,2026-02-22,1257.06,No Especificado,estado_invalido
+1195,1088,2025-11-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+1197,22770,2025-02-12,,Abierto,montoSiniestro_invalido
+1198,1007,2025-03-20,,Cerrado,montoSiniestro_invalido
+1199,7316,2025-10-17,,Cerrado,montoSiniestro_invalido
+1201,10811,2025-01-12,,Abierto,montoSiniestro_invalido
+1204,10792,2026-02-09,2449.52,No Especificado,estado_invalido
+1205,2785,2025-07-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+1208,12085,2025-06-03,7292.34,No Especificado,estado_invalido
+1211,23782,2025-12-23,,Rechazado,montoSiniestro_invalido
+1212,18598,2025-02-20,5927.99,No Especificado,estado_invalido
+1213,17164,2025-11-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+1214,4547,2025-08-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+1219,12303,2025-05-02,,Rechazado,montoSiniestro_invalido
+1220,11652,2026-01-31,9053.89,No Especificado,estado_invalido
+1221,8298,2026-01-19,,Abierto,montoSiniestro_invalido
+1222,4761,2025-08-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+1225,23885,2025-09-22,12134.93,No Especificado,estado_invalido
+1226,4251,2025-07-05,,Cerrado,montoSiniestro_invalido
+1227,25832,2025-03-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+1229,405,2025-03-06,2902.16,No Especificado,estado_invalido
+1230,10348,2025-04-05,14201.74,No Especificado,estado_invalido
+1231,21623,2025-10-10,,Abierto,montoSiniestro_invalido
+1240,16223,2025-04-07,277.84,No Especificado,estado_invalido
+1242,16772,2025-03-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+1245,9315,2025-10-01,5018.98,No Especificado,estado_invalido
+1247,16943,2026-01-20,13951.22,No Especificado,estado_invalido
+1248,23191,2025-01-21,,Cerrado,montoSiniestro_invalido
+1250,639,2025-07-26,10710.26,No Especificado,estado_invalido
+1251,5220,2025-02-20,10460.04,No Especificado,estado_invalido
+1253,8538,2025-09-11,,Abierto,montoSiniestro_invalido
+1254,20454,2025-10-02,,Rechazado,montoSiniestro_invalido
+1260,19935,2025-10-07,11443.65,No Especificado,estado_invalido
+1261,10131,2025-09-20,8864.57,No Especificado,estado_invalido
+1263,14945,2025-06-22,,Abierto,montoSiniestro_invalido
+1264,25585,2025-11-03,,Abierto,montoSiniestro_invalido
+1268,16249,2025-10-02,13323.22,No Especificado,estado_invalido
+1269,21082,2025-07-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+1271,2456,2025-01-30,,Abierto,montoSiniestro_invalido
+1272,25857,2025-07-13,,Cerrado,montoSiniestro_invalido
+1275,19288,2026-01-25,2725.82,No Especificado,estado_invalido
+1276,280,2025-11-14,,Cerrado,montoSiniestro_invalido
+1277,20864,2025-09-24,1036.3,No Especificado,estado_invalido
+1284,7964,2025-12-07,,Cerrado,montoSiniestro_invalido
+1287,7682,2025-12-13,,Abierto,montoSiniestro_invalido
+1291,5882,2025-08-16,,Rechazado,montoSiniestro_invalido
+1294,23967,2025-06-24,13944.49,No Especificado,estado_invalido
+1295,21960,2025-04-04,12943.58,No Especificado,estado_invalido
+1297,3203,2025-03-31,,Rechazado,montoSiniestro_invalido
+1300,13633,2025-12-09,6440.54,No Especificado,estado_invalido
+1302,6501,2025-02-05,7922.05,No Especificado,estado_invalido
+1303,264,2025-02-28,,Abierto,montoSiniestro_invalido
+1306,3099,2025-01-04,7877.21,No Especificado,estado_invalido
+1307,17248,2025-07-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+1308,20819,2025-03-23,12807.83,No Especificado,estado_invalido
+1310,12726,2025-08-20,3196.63,No Especificado,estado_invalido
+1311,2315,2025-05-29,14201.32,No Especificado,estado_invalido
+1316,12800,2025-10-10,,Abierto,montoSiniestro_invalido
+1317,19371,2026-02-17,,Cerrado,montoSiniestro_invalido
+1319,5559,2025-02-25,,Rechazado,montoSiniestro_invalido
+1320,4918,2025-03-16,1501.08,No Especificado,estado_invalido
+1322,7393,2025-05-19,,No Especificado,montoSiniestro_invalido;estado_invalido
+1325,6766,2025-06-29,,Abierto,montoSiniestro_invalido
+1326,21581,2025-01-01,13247.47,No Especificado,estado_invalido
+1329,19205,2025-09-18,13096.57,No Especificado,estado_invalido
+1332,3566,2026-09-01,6194.88,No Especificado,estado_invalido
+1335,23315,2025-02-20,14684.93,No Especificado,estado_invalido
+1338,15367,2025-08-22,,Abierto,montoSiniestro_invalido
+1339,9171,2025-04-09,,Cerrado,montoSiniestro_invalido
+1342,20930,2025-07-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+1347,15514,2025-05-14,12002.76,No Especificado,estado_invalido
+1351,563,2025-09-10,,Cerrado,montoSiniestro_invalido
+1355,12151,2025-09-12,4698.5,No Especificado,estado_invalido
+1357,22130,2025-05-14,11891.95,No Especificado,estado_invalido
+1358,23652,2026-02-04,5850.34,No Especificado,estado_invalido
+1362,21685,2025-06-29,,Rechazado,montoSiniestro_invalido
+1364,13980,2025-12-24,8707.04,No Especificado,estado_invalido
+1370,12779,2026-02-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+1371,7640,2025-08-25,,Cerrado,montoSiniestro_invalido
+1373,1379,2026-02-15,12470.22,No Especificado,estado_invalido
+1374,23715,2026-01-14,9377.3,No Especificado,estado_invalido
+1377,8960,2025-03-28,364.6,No Especificado,estado_invalido
+1379,25727,2025-01-20,,Rechazado,montoSiniestro_invalido
+1380,8316,2025-09-10,,Cerrado,montoSiniestro_invalido
+1388,2414,2025-12-07,,Abierto,montoSiniestro_invalido
+1389,20596,2025-12-13,14855.63,No Especificado,estado_invalido
+1394,21463,2025-12-25,3636.5,No Especificado,estado_invalido
+1400,19676,2025-03-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+1404,14776,2026-01-05,13119.37,No Especificado,estado_invalido
+1405,8294,2026-01-21,,Cerrado,montoSiniestro_invalido
+1407,13052,2025-05-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+1411,10651,2025-06-04,,Abierto,montoSiniestro_invalido
+1413,25745,2025-03-29,,Cerrado,montoSiniestro_invalido
+1414,25620,2025-05-15,8940.16,No Especificado,estado_invalido
+1415,9335,2025-07-07,,Abierto,montoSiniestro_invalido
+1417,21070,2026-02-14,10902.82,No Especificado,estado_invalido
+1418,13727,2025-01-15,11467.88,No Especificado,estado_invalido
+1420,9081,2025-11-18,,Abierto,montoSiniestro_invalido
+1424,21782,2025-07-31,,Rechazado,montoSiniestro_invalido
+1427,9624,2026-02-18,3204.41,No Especificado,estado_invalido
+1428,5384,2025-01-22,,Rechazado,montoSiniestro_invalido
+1430,13806,2025-10-02,4148.18,No Especificado,estado_invalido
+1431,9337,2025-01-26,,Rechazado,montoSiniestro_invalido
+1433,7520,2025-08-25,4779.21,No Especificado,estado_invalido
+1435,19763,2025-04-18,8214.41,No Especificado,estado_invalido
+1437,11222,2025-11-23,,Rechazado,montoSiniestro_invalido
+1438,9756,2026-01-29,14517.39,No Especificado,estado_invalido
+1441,11343,2025-07-04,,Rechazado,montoSiniestro_invalido
+1445,18385,2025-11-05,,Cerrado,montoSiniestro_invalido
+1447,21799,2025-10-09,,Abierto,montoSiniestro_invalido
+1450,9478,2025-05-09,,Abierto,montoSiniestro_invalido
+1454,13894,2025-02-11,,Cerrado,montoSiniestro_invalido
+1458,2953,2025-10-01,11070.01,No Especificado,estado_invalido
+1459,24954,2025-01-19,,Abierto,montoSiniestro_invalido
+1461,13174,2025-12-10,,Cerrado,montoSiniestro_invalido
+1462,19453,2025-12-26,9532.75,No Especificado,estado_invalido
+1463,16375,2025-04-05,14655.63,No Especificado,estado_invalido
+1464,6576,2025-05-06,1345.69,No Especificado,estado_invalido
+1466,24405,2026-01-31,,No Especificado,montoSiniestro_invalido;estado_invalido
+1469,1197,2026-01-18,11255.78,No Especificado,estado_invalido
+1471,11356,2025-08-22,11938.75,No Especificado,estado_invalido
+1479,13889,2025-04-15,,Rechazado,montoSiniestro_invalido
+1481,21619,2025-12-03,,Abierto,montoSiniestro_invalido
+1483,24886,2025-10-10,2221.79,No Especificado,estado_invalido
+1487,22507,2025-01-16,,Abierto,montoSiniestro_invalido
+1489,10152,2025-12-07,,Cerrado,montoSiniestro_invalido
+1490,10919,2025-02-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+1493,18230,2025-04-08,3242.03,No Especificado,estado_invalido
+1496,19417,2025-06-26,,Rechazado,montoSiniestro_invalido
+1497,4852,2025-02-03,12375.98,No Especificado,estado_invalido
+1498,3723,2025-05-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+1508,23922,2025-05-10,,Cerrado,montoSiniestro_invalido
+1510,24665,2025-04-01,4582.76,No Especificado,estado_invalido
+1514,25692,2025-08-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+1517,6321,2025-07-05,1441.95,No Especificado,estado_invalido
+1519,2732,2026-01-28,,Cerrado,montoSiniestro_invalido
+1520,19601,2025-05-01,2751.89,No Especificado,estado_invalido
+1521,17514,2025-10-13,1287.58,No Especificado,estado_invalido
+1523,8973,2025-09-17,169.84,No Especificado,estado_invalido
+1526,8984,2025-11-11,,Abierto,montoSiniestro_invalido
+1528,24261,2025-12-01,673.3,No Especificado,estado_invalido
+1531,6913,2025-08-23,413.69,No Especificado,estado_invalido
+1532,3410,2025-06-12,13331.11,No Especificado,estado_invalido
+1534,23962,2026-01-28,487.62,No Especificado,estado_invalido
+1537,20430,2025-05-26,2969.85,No Especificado,estado_invalido
+1540,19844,2025-11-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+1543,2999,2025-04-25,,Abierto,montoSiniestro_invalido
+1544,5361,2025-08-31,,Cerrado,montoSiniestro_invalido
+1548,6038,2025-04-28,7697.95,No Especificado,estado_invalido
+1550,8469,2025-03-06,,Abierto,montoSiniestro_invalido
+1551,24210,2025-03-01,13017.38,No Especificado,estado_invalido
+1553,10951,2025-10-17,5821.56,No Especificado,estado_invalido
+1556,15290,2025-09-05,,Abierto,montoSiniestro_invalido
+1562,18159,2025-04-16,,Rechazado,montoSiniestro_invalido
+1564,14006,2025-11-01,9999.18,No Especificado,estado_invalido
+1565,8482,2025-02-03,4333.38,No Especificado,estado_invalido
+1568,7268,2025-08-12,,Abierto,montoSiniestro_invalido
+1571,2817,2025-06-22,8768.67,No Especificado,estado_invalido
+1572,25506,2025-04-22,,Cerrado,montoSiniestro_invalido
+1574,20263,2025-06-18,,Abierto,montoSiniestro_invalido
+1578,11943,2025-02-13,10299.33,No Especificado,estado_invalido
+1582,16622,2025-09-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+1588,23950,2025-03-08,7565.75,No Especificado,estado_invalido
+1591,16340,2026-02-14,,Abierto,montoSiniestro_invalido
+1594,6947,2025-12-02,1246.82,No Especificado,estado_invalido
+1595,16650,2025-05-14,6602.32,No Especificado,estado_invalido
+1596,20438,2025-04-04,5672.27,No Especificado,estado_invalido
+1597,21771,2025-06-23,,Abierto,montoSiniestro_invalido
+1600,16134,2026-01-17,,Rechazado,montoSiniestro_invalido
+1604,7108,2025-12-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+1611,5761,2025-11-18,422.91,No Especificado,estado_invalido
+1612,16850,2025-11-08,5320.82,No Especificado,estado_invalido
+1613,15390,2025-11-14,10831.47,No Especificado,estado_invalido
+1614,22551,2025-10-25,14069.5,No Especificado,estado_invalido
+1615,12778,2025-06-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+1622,9705,2026-01-29,10663.53,No Especificado,estado_invalido
+1624,20288,2026-02-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+1627,12223,2025-09-19,5806.47,No Especificado,estado_invalido
+1629,7756,2025-06-29,3970.26,No Especificado,estado_invalido
+1631,23663,2025-12-29,9825.35,No Especificado,estado_invalido
+1632,24698,2025-10-26,8147.96,No Especificado,estado_invalido
+1634,13554,2025-11-03,,Abierto,montoSiniestro_invalido
+1637,24853,2025-11-28,14517.28,No Especificado,estado_invalido
+1638,8983,2025-04-24,12252.52,No Especificado,estado_invalido
+1639,18349,2025-12-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+1640,12237,2025-08-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+1642,5128,2025-09-10,5998.03,No Especificado,estado_invalido
+1644,20306,2025-06-15,,Abierto,montoSiniestro_invalido
+1649,20308,2025-12-11,14566.91,No Especificado,estado_invalido
+1650,23878,2025-10-20,6367.46,No Especificado,estado_invalido
+1651,497,2026-01-06,,Abierto,montoSiniestro_invalido
+1654,140,2025-06-23,,Abierto,montoSiniestro_invalido
+1658,11203,2025-04-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+1662,10657,2025-09-21,,Cerrado,montoSiniestro_invalido
+1667,16218,2025-06-16,,Cerrado,montoSiniestro_invalido
+1668,22198,2025-10-30,1454.97,No Especificado,estado_invalido
+1669,16274,2026-05-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+1670,25748,2025-06-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+1672,15931,2025-12-20,12335.99,No Especificado,estado_invalido
+1675,22816,2025-07-13,13433.8,No Especificado,estado_invalido
+1678,15487,2025-06-26,4073.39,No Especificado,estado_invalido
+1684,8607,2025-10-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+1685,20635,2025-10-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+1689,18789,2025-04-27,,Abierto,montoSiniestro_invalido
+1690,13496,2025-11-16,,Cerrado,montoSiniestro_invalido
+1693,22679,2025-10-15,6624.27,No Especificado,estado_invalido
+1694,12135,2025-02-13,14171.39,No Especificado,estado_invalido
+1698,362,2025-08-16,10705.25,No Especificado,estado_invalido
+1700,16612,2025-02-20,11110.58,No Especificado,estado_invalido
+1703,24825,2025-02-17,10644.08,No Especificado,estado_invalido
+1704,23784,2025-07-20,,Rechazado,montoSiniestro_invalido
+1705,10032,2025-10-08,11034.33,No Especificado,estado_invalido
+1706,6400,2026-01-06,10276.18,No Especificado,estado_invalido
+1710,24381,2025-09-05,,Cerrado,montoSiniestro_invalido
+1713,19951,2025-06-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+1714,16177,2025-02-24,,Cerrado,montoSiniestro_invalido
+1718,8766,2026-01-27,7189.85,No Especificado,estado_invalido
+1719,23646,2025-02-12,,Abierto,montoSiniestro_invalido
+1720,9594,2025-11-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+1722,12854,2025-04-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+1731,17953,2025-08-09,3607.23,No Especificado,estado_invalido
+1732,21801,2025-10-11,6022.36,No Especificado,estado_invalido
+1738,21295,2025-09-21,13384.46,No Especificado,estado_invalido
+1747,11770,2025-05-25,9805.25,No Especificado,estado_invalido
+1755,12517,2025-09-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+1761,3377,2026-05-01,,Abierto,montoSiniestro_invalido
+1762,3692,2025-06-02,9676.04,No Especificado,estado_invalido
+1763,23579,2025-05-19,4609.03,No Especificado,estado_invalido
+1767,5702,2025-02-02,8103.3,No Especificado,estado_invalido
+1769,4781,2025-08-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+1773,5273,2025-02-14,9839.8,No Especificado,estado_invalido
+1776,20436,2025-10-04,,Rechazado,montoSiniestro_invalido
+1777,13885,2025-07-18,,Cerrado,montoSiniestro_invalido
+1778,983,2026-02-19,4936.73,No Especificado,estado_invalido
+1781,4050,2025-05-12,10099.53,No Especificado,estado_invalido
+1784,18429,2025-03-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+1786,13597,2025-03-04,8608.38,No Especificado,estado_invalido
+1787,6620,2025-07-30,1056.39,No Especificado,estado_invalido
+1788,3689,2025-11-11,9448.36,No Especificado,estado_invalido
+1789,6518,2025-05-14,14330.32,No Especificado,estado_invalido
+1790,20480,2025-03-11,,Abierto,montoSiniestro_invalido
+1791,22855,2025-07-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+1793,154,2026-12-01,6325.81,No Especificado,estado_invalido
+1794,6881,2026-02-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+1795,17921,2025-11-24,,Cerrado,montoSiniestro_invalido
+1796,19046,2025-02-12,,Rechazado,montoSiniestro_invalido
+1800,6555,2025-09-05,12219.16,No Especificado,estado_invalido
+1802,19906,2025-08-31,8711.91,No Especificado,estado_invalido
+1803,2114,2025-10-02,4728.3,No Especificado,estado_invalido
+1804,537,2025-06-19,7883.57,No Especificado,estado_invalido
+1805,12108,2025-10-02,5335.93,No Especificado,estado_invalido
+1806,14494,2025-12-27,,No Especificado,montoSiniestro_invalido;estado_invalido
+1808,24630,2026-02-12,,Rechazado,montoSiniestro_invalido
+1809,23298,2025-07-15,8743.38,No Especificado,estado_invalido
+1812,7113,2025-04-20,10111.45,No Especificado,estado_invalido
+1815,5058,2025-12-23,,Abierto,montoSiniestro_invalido
+1820,5877,2025-03-29,6951.16,No Especificado,estado_invalido
+1822,1320,2025-06-29,,Abierto,montoSiniestro_invalido
+1826,20678,2025-08-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+1831,25888,2025-05-03,5651.21,No Especificado,estado_invalido
+1833,6007,2025-10-15,,Abierto,montoSiniestro_invalido
+1834,7502,2025-08-23,,Cerrado,montoSiniestro_invalido
+1835,1008,2025-01-29,,Rechazado,montoSiniestro_invalido
+1848,22563,2025-12-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+1850,10383,2025-05-18,,Abierto,montoSiniestro_invalido
+1851,9774,2025-10-05,,Rechazado,montoSiniestro_invalido
+1853,12709,2025-10-27,4062.55,No Especificado,estado_invalido
+1856,17753,2025-04-15,1368.42,No Especificado,estado_invalido
+1857,3550,2025-01-07,,Cerrado,montoSiniestro_invalido
+1859,9873,2025-08-14,,Rechazado,montoSiniestro_invalido
+1863,9190,2025-05-05,,Abierto,montoSiniestro_invalido
+1868,9936,2025-04-03,308.97,No Especificado,estado_invalido
+1869,22147,2025-08-21,7346.23,No Especificado,estado_invalido
+1871,8047,2026-01-10,376.88,No Especificado,estado_invalido
+1873,11859,2025-04-04,-13146.99,No Especificado,estado_invalido
+1880,11215,2025-06-10,5117.67,No Especificado,estado_invalido
+1882,12872,2025-06-11,11489.95,No Especificado,estado_invalido
+1883,15435,2026-02-22,10095.06,No Especificado,estado_invalido
+1884,14239,2026-02-17,,No Especificado,montoSiniestro_invalido;estado_invalido
+1886,6035,2025-02-18,7138.65,No Especificado,estado_invalido
+1887,24229,2025-04-22,,No Especificado,montoSiniestro_invalido;estado_invalido
+1889,21000,2025-01-02,12867.83,No Especificado,estado_invalido
+1891,11314,2025-08-27,,Abierto,montoSiniestro_invalido
+1896,5035,2026-02-15,11911.4,No Especificado,estado_invalido
+1901,12631,2026-01-23,6219.35,No Especificado,estado_invalido
+1903,12829,2025-08-20,,Abierto,montoSiniestro_invalido
+1906,6297,2025-07-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+1909,11885,2025-11-26,13989.03,No Especificado,estado_invalido
+1910,2378,2025-04-16,,Rechazado,montoSiniestro_invalido
+1913,22401,2025-12-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+1914,20821,2025-05-13,,Abierto,montoSiniestro_invalido
+1915,4249,2025-09-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+1917,1483,2025-03-11,2931.64,No Especificado,estado_invalido
+1919,23370,2025-01-19,10088.81,No Especificado,estado_invalido
+1927,12363,2025-08-28,,Abierto,montoSiniestro_invalido
+1930,1800,2025-01-02,931.65,No Especificado,estado_invalido
+1931,11267,2026-01-15,,Abierto,montoSiniestro_invalido
+1932,4478,2025-02-19,,Abierto,montoSiniestro_invalido
+1933,18557,2025-02-13,,Rechazado,montoSiniestro_invalido
+1936,10230,2025-09-16,,Cerrado,montoSiniestro_invalido
+1938,6924,2025-05-20,5308.87,No Especificado,estado_invalido
+1943,25537,2025-03-08,10387.2,No Especificado,estado_invalido
+1946,9795,2025-06-27,-3125.37,No Especificado,estado_invalido
+1949,24265,2026-02-14,1744.78,No Especificado,estado_invalido
+1951,11356,2025-06-16,3026.6,No Especificado,estado_invalido
+1953,25846,2025-12-20,817.11,No Especificado,estado_invalido
+1957,5599,2025-08-27,4898.77,No Especificado,estado_invalido
+1958,14376,2025-06-20,8939.68,No Especificado,estado_invalido
+1959,25653,2025-09-26,,Cerrado,montoSiniestro_invalido
+1961,10180,2025-06-18,458.57,No Especificado,estado_invalido
+1963,7665,2025-02-01,13058.05,No Especificado,estado_invalido
+1964,19457,2025-11-11,12371.01,No Especificado,estado_invalido
+1965,10239,2025-10-26,,Abierto,montoSiniestro_invalido
+1967,23070,2025-03-16,5037.27,No Especificado,estado_invalido
+1968,12848,2025-03-14,14024.56,No Especificado,estado_invalido
+1969,12354,2025-08-08,12960.35,No Especificado,estado_invalido
+1971,3132,2025-01-06,,Abierto,montoSiniestro_invalido
+1972,18246,2025-10-11,10681.55,No Especificado,estado_invalido
+1974,3645,2025-03-20,12880.85,No Especificado,estado_invalido
+1975,11929,2025-09-24,,Rechazado,montoSiniestro_invalido
+1982,13668,2025-04-06,,Abierto,montoSiniestro_invalido
+1984,8409,2025-01-22,9904.12,No Especificado,estado_invalido
+1985,19738,2025-05-15,,Abierto,montoSiniestro_invalido
+1991,21922,2025-05-27,,Abierto,montoSiniestro_invalido
+1992,5897,2025-09-22,,Abierto,montoSiniestro_invalido
+1993,5951,2025-10-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+1998,17036,2025-07-04,9445.55,No Especificado,estado_invalido
+2000,14424,2025-12-15,6440.22,No Especificado,estado_invalido
+2001,15777,2025-12-31,8711.64,No Especificado,estado_invalido
+2003,19906,2025-12-19,,No Especificado,montoSiniestro_invalido;estado_invalido
+2004,1052,2025-08-17,,No Especificado,montoSiniestro_invalido;estado_invalido
+2007,9647,2025-06-11,,Rechazado,montoSiniestro_invalido
+2009,8864,2025-12-15,14996.75,No Especificado,estado_invalido
+2010,14609,2025-08-10,7622.38,No Especificado,estado_invalido
+2011,20873,2025-05-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+2013,6808,2025-09-09,2668.84,No Especificado,estado_invalido
+2014,18068,2025-08-14,,Abierto,montoSiniestro_invalido
+2015,966,2025-07-18,4633.19,No Especificado,estado_invalido
+2017,10286,2025-12-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+2018,21296,2025-05-01,,Rechazado,montoSiniestro_invalido
+2019,14718,2025-05-31,,No Especificado,montoSiniestro_invalido;estado_invalido
+2020,1105,2025-04-06,7568.87,No Especificado,estado_invalido
+2026,23719,2025-02-11,,Cerrado,montoSiniestro_invalido
+2027,13023,2025-03-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+2030,24667,2025-02-27,,Abierto,montoSiniestro_invalido
+2033,23214,2025-02-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+2036,6962,2025-08-01,14164.09,No Especificado,estado_invalido
+2038,23938,2025-12-15,,Cerrado,montoSiniestro_invalido
+2045,11343,2025-12-06,5598.05,No Especificado,estado_invalido
+2050,2889,2025-11-20,12798.94,No Especificado,estado_invalido
+2052,11775,2025-10-10,9190.32,No Especificado,estado_invalido
+2056,3311,2026-02-18,476.23,No Especificado,estado_invalido
+2060,2609,2025-06-02,7367.96,No Especificado,estado_invalido
+2062,10009,2025-05-05,,No Especificado,montoSiniestro_invalido;estado_invalido
+2065,6177,2026-02-01,,Abierto,montoSiniestro_invalido
+2067,18940,2025-10-27,14080.58,No Especificado,estado_invalido
+2068,20623,2025-10-05,5598.66,No Especificado,estado_invalido
+2070,16333,2025-01-12,,Abierto,montoSiniestro_invalido
+2071,18190,2025-10-31,,Abierto,montoSiniestro_invalido
+2073,748,2025-06-29,6018.67,No Especificado,estado_invalido
+2075,16490,2025-02-01,8174.67,No Especificado,estado_invalido
+2076,18072,2025-09-27,,Abierto,montoSiniestro_invalido
+2077,17252,2025-10-20,7933.21,No Especificado,estado_invalido
+2078,15511,2026-01-25,4027.17,No Especificado,estado_invalido
+2079,6895,2025-05-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+2080,10895,2025-12-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+2081,3369,2025-07-16,,Cerrado,montoSiniestro_invalido
+2083,14545,2026-02-17,,Cerrado,montoSiniestro_invalido
+2087,2627,2025-04-16,,Abierto,montoSiniestro_invalido
+2088,2488,2025-08-14,9104.12,No Especificado,estado_invalido
+2092,3682,2025-05-24,,Abierto,montoSiniestro_invalido
+2096,20212,2025-02-02,10913.99,No Especificado,estado_invalido
+2102,25702,2025-11-11,11456.76,No Especificado,estado_invalido
+2106,25564,2025-11-18,,Rechazado,montoSiniestro_invalido
+2108,25757,2025-04-07,8907.86,No Especificado,estado_invalido
+2110,19846,2025-11-23,4708.12,No Especificado,estado_invalido
+2112,2291,2025-07-19,,Cerrado,montoSiniestro_invalido
+2113,19687,2025-11-11,9909.82,No Especificado,estado_invalido
+2115,24559,2025-08-02,,Rechazado,montoSiniestro_invalido
+2116,12438,2025-02-25,,Cerrado,montoSiniestro_invalido
+2119,11636,2025-07-31,,Rechazado,montoSiniestro_invalido
+2120,9202,2025-12-17,1092.28,No Especificado,estado_invalido
+2123,893,2025-03-24,,Abierto,montoSiniestro_invalido
+2129,15817,2025-11-24,1554.97,No Especificado,estado_invalido
+2130,24568,2025-08-01,10081.96,No Especificado,estado_invalido
+2133,5582,2026-02-04,3173.9,No Especificado,estado_invalido
+2134,15550,2025-05-26,,Cerrado,montoSiniestro_invalido
+2137,3740,2025-09-28,,Cerrado,montoSiniestro_invalido
+2140,20890,2025-06-02,,Abierto,montoSiniestro_invalido
+2141,8581,2025-09-15,9118.98,No Especificado,estado_invalido
+2143,7049,2025-09-01,14263.63,No Especificado,estado_invalido
+2147,18198,2025-06-06,14907.53,No Especificado,estado_invalido
+2151,17498,2025-08-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+2154,5275,2025-08-07,,Cerrado,montoSiniestro_invalido
+2155,6403,2025-01-02,,Rechazado,montoSiniestro_invalido
+2156,16843,2025-08-01,,Rechazado,montoSiniestro_invalido
+2159,3796,2025-10-23,,Cerrado,montoSiniestro_invalido
+2160,17763,2025-01-29,10933.93,No Especificado,estado_invalido
+2161,23253,2025-08-26,,Cerrado,montoSiniestro_invalido
+2163,22022,2025-03-15,11882.41,No Especificado,estado_invalido
+2170,13440,2025-09-30,,Cerrado,montoSiniestro_invalido
+2171,6484,2025-06-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+2175,21219,2025-03-07,4325.25,No Especificado,estado_invalido
+2177,12062,2025-02-17,,No Especificado,montoSiniestro_invalido;estado_invalido
+2181,13324,2025-10-15,10971.72,No Especificado,estado_invalido
+2182,23939,2026-01-02,7294.75,No Especificado,estado_invalido
+2185,13495,2025-02-27,11264.69,No Especificado,estado_invalido
+2187,6776,2025-03-16,,Cerrado,montoSiniestro_invalido
+2189,8604,2025-12-20,6396.32,No Especificado,estado_invalido
+2191,15378,2025-05-21,,Abierto,montoSiniestro_invalido
+2192,7276,2025-04-22,,Cerrado,montoSiniestro_invalido
+2195,20237,2025-09-20,1798.81,No Especificado,estado_invalido
+2196,12443,2025-05-05,,Cerrado,montoSiniestro_invalido
+2199,2655,2025-03-27,9652.5,No Especificado,estado_invalido
+2200,16302,2026-01-20,14998.98,No Especificado,estado_invalido
+2201,5693,2025-10-25,,Rechazado,montoSiniestro_invalido
+2207,23522,2025-12-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+2210,9364,2025-08-19,,Cerrado,montoSiniestro_invalido
+2211,24414,2025-05-26,,Rechazado,montoSiniestro_invalido
+2215,18283,2025-04-27,13042.84,No Especificado,estado_invalido
+2218,2121,2026-01-22,,No Especificado,montoSiniestro_invalido;estado_invalido
+2219,3863,2025-02-11,,No Especificado,montoSiniestro_invalido;estado_invalido
+2220,18997,2025-06-01,450.11,No Especificado,estado_invalido
+2221,8239,2025-06-15,10385.04,No Especificado,estado_invalido
+2223,19293,2025-06-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+2226,13433,2025-09-27,7919.17,No Especificado,estado_invalido
+2227,3018,2025-10-27,,Cerrado,montoSiniestro_invalido
+2232,22770,2025-10-03,8286.57,No Especificado,estado_invalido
+2233,15101,2025-08-14,,Cerrado,montoSiniestro_invalido
+2240,7847,2025-06-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+2241,10744,2025-08-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+2243,14886,2026-02-11,8087.14,No Especificado,estado_invalido
+2244,22956,2025-09-12,,Abierto,montoSiniestro_invalido
+2247,12378,2025-06-24,6324.65,No Especificado,estado_invalido
+2248,616,2025-03-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+2249,16571,2025-11-24,,Cerrado,montoSiniestro_invalido
+2253,2695,2025-05-15,12110.89,No Especificado,estado_invalido
+2254,10324,2025-04-02,,Rechazado,montoSiniestro_invalido
+2255,12512,2025-09-04,,Abierto,montoSiniestro_invalido
+2261,8965,2025-07-08,2877.21,No Especificado,estado_invalido
+2263,16248,2025-05-28,2521.11,No Especificado,estado_invalido
+2265,21457,2025-11-14,,Abierto,montoSiniestro_invalido
+2267,20025,2025-08-23,,Abierto,montoSiniestro_invalido
+2269,11994,2025-05-30,,Rechazado,montoSiniestro_invalido
+2270,5262,2025-06-30,2698.98,No Especificado,estado_invalido
+2271,12807,2026-04-01,,Abierto,montoSiniestro_invalido
+2272,25669,2025-04-08,14217.5,No Especificado,estado_invalido
+2273,19646,2025-10-14,3432.68,No Especificado,estado_invalido
+2278,778,2025-08-08,,Abierto,montoSiniestro_invalido
+2281,9844,2025-02-27,,Cerrado,montoSiniestro_invalido
+2282,3087,2025-08-24,8941.56,No Especificado,estado_invalido
+2286,629,2025-12-30,,Rechazado,montoSiniestro_invalido
+2292,9566,2025-08-19,14828.44,No Especificado,estado_invalido
+2293,11540,2025-07-24,12845.16,No Especificado,estado_invalido
+2294,3290,2025-02-26,10223.01,No Especificado,estado_invalido
+2296,10408,2025-08-07,,Cerrado,montoSiniestro_invalido
+2297,11624,2025-02-11,,No Especificado,montoSiniestro_invalido;estado_invalido
+2299,856,2025-03-04,14863.37,No Especificado,estado_invalido
+2301,19172,2025-12-26,,Cerrado,montoSiniestro_invalido
+2302,25535,2025-04-22,,Cerrado,montoSiniestro_invalido
+2303,15169,2025-12-19,,Cerrado,montoSiniestro_invalido
+2306,511,2025-09-05,13692.83,No Especificado,estado_invalido
+2308,6162,2025-07-13,,Abierto,montoSiniestro_invalido
+2311,7071,2025-09-13,6691.02,No Especificado,estado_invalido
+2312,8906,2025-03-15,4111.13,No Especificado,estado_invalido
+2313,5220,2025-06-16,12564.16,No Especificado,estado_invalido
+2321,15504,2025-05-20,,Abierto,montoSiniestro_invalido
+2325,13683,2026-01-13,8621.92,No Especificado,estado_invalido
+2328,22652,2025-11-24,11791.18,No Especificado,estado_invalido
+2331,1474,2025-03-15,13036.46,No Especificado,estado_invalido
+2334,9210,2025-03-22,8403.81,No Especificado,estado_invalido
+2336,9318,2025-04-04,,Abierto,montoSiniestro_invalido
+2342,24584,2025-09-23,3824.21,No Especificado,estado_invalido
+2346,21253,2025-01-04,,No Especificado,montoSiniestro_invalido;estado_invalido
+2351,22211,2025-04-16,13086.1,No Especificado,estado_invalido
+2352,20711,2025-11-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+2353,858,2025-11-20,9445.29,No Especificado,estado_invalido
+2354,6864,2026-01-21,11051.5,No Especificado,estado_invalido
+2356,20455,2026-01-15,,Abierto,montoSiniestro_invalido
+2357,1653,2026-01-23,6707.44,No Especificado,estado_invalido
+2358,1622,2026-01-02,363.03,No Especificado,estado_invalido
+2359,2943,2025-07-21,783.16,No Especificado,estado_invalido
+2360,3942,2025-05-22,,Rechazado,montoSiniestro_invalido
+2361,18633,2025-10-30,6979.7,No Especificado,estado_invalido
+2363,2737,2025-05-09,6884.27,No Especificado,estado_invalido
+2364,25845,2025-08-20,1695.06,No Especificado,estado_invalido
+2365,21121,2025-06-02,12774.65,No Especificado,estado_invalido
+2367,19568,2025-03-24,,Cerrado,montoSiniestro_invalido
+2368,22622,2026-01-02,348.66,No Especificado,estado_invalido
+2369,11403,2025-04-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+2372,18743,2025-05-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+2373,9302,2025-06-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+2377,8758,2025-10-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+2379,13852,2025-02-22,6190.29,No Especificado,estado_invalido
+2383,15691,2025-03-23,,No Especificado,montoSiniestro_invalido;estado_invalido
+2384,9924,2025-12-19,11310.24,No Especificado,estado_invalido
+2385,22112,2025-04-14,,Abierto,montoSiniestro_invalido
+2390,8027,2025-12-31,1121.61,No Especificado,estado_invalido
+2392,17405,2025-04-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+2394,1520,2025-02-25,,Cerrado,montoSiniestro_invalido
+2402,11266,2025-07-27,14169.91,No Especificado,estado_invalido
+2408,755,2026-01-31,4836.65,No Especificado,estado_invalido
+2409,16622,2025-10-28,,Rechazado,montoSiniestro_invalido
+2410,15022,2025-06-10,6031.84,No Especificado,estado_invalido
+2418,16583,2025-01-05,8894.8,No Especificado,estado_invalido
+2419,1101,2025-06-04,9171.26,No Especificado,estado_invalido
+2421,7308,2025-11-04,,Abierto,montoSiniestro_invalido
+2423,5465,2025-04-18,8224.28,No Especificado,estado_invalido
+2424,22274,2025-03-28,6628.03,No Especificado,estado_invalido
+2427,251,2025-01-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+2428,5206,2025-08-02,5634.12,No Especificado,estado_invalido
+2430,25623,2025-08-28,,No Especificado,montoSiniestro_invalido;estado_invalido
+2434,20992,2025-09-23,,Cerrado,montoSiniestro_invalido
+2436,15786,2025-07-22,,Rechazado,montoSiniestro_invalido
+2439,13895,2025-06-02,,Abierto,montoSiniestro_invalido
+2440,3564,2025-03-02,,Cerrado,montoSiniestro_invalido
+2443,2790,2025-12-17,,Rechazado,montoSiniestro_invalido
+2445,23615,2025-06-07,9415.52,No Especificado,estado_invalido
+2447,8840,2025-01-23,,No Especificado,montoSiniestro_invalido;estado_invalido
+2448,17507,2026-10-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+2449,23007,2026-02-18,9358.52,No Especificado,estado_invalido
+2450,17533,2025-04-05,,Cerrado,montoSiniestro_invalido
+2451,14441,2026-01-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+2453,25762,2025-12-16,12799.54,No Especificado,estado_invalido
+2454,315,2025-06-20,2706.62,No Especificado,estado_invalido
+2455,6226,2026-02-25,11691.36,No Especificado,estado_invalido
+2461,4460,2025-08-28,,No Especificado,montoSiniestro_invalido;estado_invalido
+2464,4246,2025-11-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+2467,24047,2025-10-27,831.44,No Especificado,estado_invalido
+2470,19870,2026-02-24,,Abierto,montoSiniestro_invalido
+2471,15609,2025-11-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+2474,6772,2025-11-13,,Abierto,montoSiniestro_invalido
+2480,14866,2025-12-25,13497.18,No Especificado,estado_invalido
+2481,7016,2025-04-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+2483,9149,2025-12-28,,Cerrado,montoSiniestro_invalido
+2487,10983,2025-01-19,,No Especificado,montoSiniestro_invalido;estado_invalido
+2495,23605,2025-05-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+2500,5749,2025-08-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+2501,6007,2025-10-13,11464.16,No Especificado,estado_invalido
+2504,24756,2025-11-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+2505,11966,2025-12-22,9243.01,No Especificado,estado_invalido
+2508,1754,2025-04-23,7770.4,No Especificado,estado_invalido
+2510,8058,2025-04-06,,Cerrado,montoSiniestro_invalido
+2511,12809,2025-10-14,,Cerrado,montoSiniestro_invalido
+2514,22830,2025-04-08,1219.12,No Especificado,estado_invalido
+2519,5197,2025-02-10,753.72,No Especificado,estado_invalido
+2520,5030,2025-05-30,,Rechazado,montoSiniestro_invalido
+2524,9396,2025-01-18,,Cerrado,montoSiniestro_invalido
+2527,13738,2025-08-15,1115.29,No Especificado,estado_invalido
+2528,19429,2025-05-02,,Rechazado,montoSiniestro_invalido
+2530,22448,2025-03-09,7889.28,No Especificado,estado_invalido
+2533,5249,2025-12-29,,Rechazado,montoSiniestro_invalido
+2535,23657,2025-10-05,,Cerrado,montoSiniestro_invalido
+2536,9797,2026-02-13,,Rechazado,montoSiniestro_invalido
+2538,22630,2025-09-24,2396.34,No Especificado,estado_invalido
+2541,20512,2025-10-26,,Abierto,montoSiniestro_invalido
+2542,1412,2025-07-12,11563.62,No Especificado,estado_invalido
+2543,22880,2025-10-30,10823.73,No Especificado,estado_invalido
+2544,24281,2026-02-17,14753.58,No Especificado,estado_invalido
+2545,13230,2026-02-03,9721.53,No Especificado,estado_invalido
+2547,17298,2025-03-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+2549,16301,2025-03-22,,Cerrado,montoSiniestro_invalido
+2551,16156,2026-02-25,,Rechazado,montoSiniestro_invalido
+2552,23364,2025-07-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+2553,7641,2025-07-03,5771.47,No Especificado,estado_invalido
+2554,1172,2026-09-01,3379.85,No Especificado,estado_invalido
+2556,17301,2025-09-14,,Abierto,montoSiniestro_invalido
+2557,17296,2025-04-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+2558,16379,2025-12-22,11100.12,No Especificado,estado_invalido
+2559,18887,2025-10-09,8398.33,No Especificado,estado_invalido
+2561,10340,2025-02-26,388.85,No Especificado,estado_invalido
+2562,10507,2025-02-21,13259.68,No Especificado,estado_invalido
+2564,12314,2025-04-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+2574,15439,2025-03-22,13120.29,No Especificado,estado_invalido
+2576,6446,2025-09-20,7607.2,No Especificado,estado_invalido
+2578,6675,2025-09-26,9976.23,No Especificado,estado_invalido
+2580,18166,2025-12-06,2887.95,No Especificado,estado_invalido
+2582,16327,2025-08-06,4695.67,No Especificado,estado_invalido
+2590,22053,2025-02-22,,Cerrado,montoSiniestro_invalido
+2592,11432,2025-11-26,,Abierto,montoSiniestro_invalido
+2594,4513,2026-01-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+2596,6376,2025-04-07,,Abierto,montoSiniestro_invalido
+2599,18113,2025-05-30,,Abierto,montoSiniestro_invalido
+2603,24345,2025-04-05,,Rechazado,montoSiniestro_invalido
+2606,16807,2025-05-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+2608,24962,2025-03-28,,Rechazado,montoSiniestro_invalido
+2613,10242,2025-02-08,,Abierto,montoSiniestro_invalido
+2614,6458,2025-03-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+2621,1926,2025-10-14,,Cerrado,montoSiniestro_invalido
+2623,1218,2025-06-06,10111.64,No Especificado,estado_invalido
+2625,25793,2025-07-05,,Abierto,montoSiniestro_invalido
+2631,12557,2025-04-27,,Abierto,montoSiniestro_invalido
+2635,7112,2025-10-27,11347.53,No Especificado,estado_invalido
+2637,10785,2025-10-03,,Rechazado,montoSiniestro_invalido
+2638,18370,2025-01-07,,Rechazado,montoSiniestro_invalido
+2639,10635,2025-10-11,,Cerrado,montoSiniestro_invalido
+2641,6887,2026-09-02,1319.53,No Especificado,estado_invalido
+2643,17912,2026-07-02,,Cerrado,montoSiniestro_invalido
+2645,16830,2025-08-05,6223.4,No Especificado,estado_invalido
+2647,7171,2025-05-23,,No Especificado,montoSiniestro_invalido;estado_invalido
+2648,23393,2025-01-23,,Abierto,montoSiniestro_invalido
+2653,4746,2025-11-29,14807.91,No Especificado,estado_invalido
+2656,14648,2025-07-25,12312.79,No Especificado,estado_invalido
+2658,20297,2025-06-08,,Rechazado,montoSiniestro_invalido
+2660,12566,2025-09-13,13602.54,No Especificado,estado_invalido
+2661,16937,2025-10-25,4789.15,No Especificado,estado_invalido
+2662,110,2025-09-20,7585.26,No Especificado,estado_invalido
+2664,5812,2025-03-13,8775.38,No Especificado,estado_invalido
+2666,5917,2025-08-17,8244.58,No Especificado,estado_invalido
+2667,8898,2025-12-06,,Abierto,montoSiniestro_invalido
+2668,4259,2025-10-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+2670,18126,2025-09-18,,Abierto,montoSiniestro_invalido
+2672,21518,2025-12-11,,Cerrado,montoSiniestro_invalido
+2674,6936,2025-03-09,,Cerrado,montoSiniestro_invalido
+2676,9465,2025-06-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+2685,17869,2025-09-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+2691,4210,2025-12-14,,Cerrado,montoSiniestro_invalido
+2693,11461,2025-04-12,6798.23,No Especificado,estado_invalido
+2694,19317,2025-06-11,3930.38,No Especificado,estado_invalido
+2697,17948,2025-09-28,,Cerrado,montoSiniestro_invalido
+2698,19171,2025-10-27,,Abierto,montoSiniestro_invalido
+2704,13229,2025-06-05,13775.35,No Especificado,estado_invalido
+2705,473,2025-09-14,5529.99,No Especificado,estado_invalido
+2709,22974,2025-04-24,5812.14,No Especificado,estado_invalido
+2711,11326,2025-08-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+2712,7146,2025-10-25,,Cerrado,montoSiniestro_invalido
+2715,21859,2025-11-11,6946.34,No Especificado,estado_invalido
+2721,25827,2025-02-15,3974.66,No Especificado,estado_invalido
+2723,17702,2025-01-03,12358.03,No Especificado,estado_invalido
+2726,24773,2025-05-27,,Rechazado,montoSiniestro_invalido
+2727,19671,2025-01-23,7408.48,No Especificado,estado_invalido
+2728,11066,2026-02-18,8560.45,No Especificado,estado_invalido
+2729,11778,2025-07-26,9384.96,No Especificado,estado_invalido
+2739,18975,2025-09-12,,No Especificado,montoSiniestro_invalido;estado_invalido
+2740,23124,2025-04-08,7290.4,No Especificado,estado_invalido
+2742,13402,2025-02-09,11138.7,No Especificado,estado_invalido
+2743,14085,2025-02-20,3815.91,No Especificado,estado_invalido
+2746,9815,2025-03-08,2709.74,No Especificado,estado_invalido
+2747,22399,2025-05-24,8613.37,No Especificado,estado_invalido
+2748,21786,2025-07-22,,No Especificado,montoSiniestro_invalido;estado_invalido
+2749,1994,2025-04-03,,Cerrado,montoSiniestro_invalido
+2750,9083,2025-08-08,2571.48,No Especificado,estado_invalido
+2752,15101,2025-10-17,7449.26,No Especificado,estado_invalido
+2753,6339,2025-11-23,10976.53,No Especificado,estado_invalido
+2755,15788,2026-12-01,4342.47,No Especificado,estado_invalido
+2756,7666,2025-11-01,11178.38,No Especificado,estado_invalido
+2758,10497,2025-06-14,5861.9,No Especificado,estado_invalido
+2760,9586,2025-09-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+2761,10655,2025-10-02,681.11,No Especificado,estado_invalido
+2762,9000,2025-10-29,,Cerrado,montoSiniestro_invalido
+2763,881,2025-11-27,,No Especificado,montoSiniestro_invalido;estado_invalido
+2766,3047,2025-12-12,2893.28,No Especificado,estado_invalido
+2767,18246,2025-01-15,6788.97,No Especificado,estado_invalido
+2769,10769,2025-03-12,,Abierto,montoSiniestro_invalido
+2775,25602,2025-10-22,,Abierto,montoSiniestro_invalido
+2779,14454,2025-10-10,,Rechazado,montoSiniestro_invalido
+2780,24872,2025-07-11,11855.37,No Especificado,estado_invalido
+2781,704,2025-03-22,4044.31,No Especificado,estado_invalido
+2782,14875,2025-10-28,,Abierto,montoSiniestro_invalido
+2783,14873,2025-07-02,2648.03,No Especificado,estado_invalido
+2784,2412,2025-04-29,,Cerrado,montoSiniestro_invalido
+2786,19226,2025-04-08,9413.66,No Especificado,estado_invalido
+2788,21999,2025-08-08,3158.3,No Especificado,estado_invalido
+2791,11226,2025-08-27,13590.35,No Especificado,estado_invalido
+2792,15690,2025-07-26,3504.74,No Especificado,estado_invalido
+2794,25862,2025-07-24,768.89,No Especificado,estado_invalido
+2795,23341,2025-05-04,583.63,No Especificado,estado_invalido
+2796,15113,2025-11-04,10901.92,No Especificado,estado_invalido
+2798,10823,2025-05-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+2800,11769,2026-01-09,5208.55,No Especificado,estado_invalido
+2801,2395,2025-11-20,4172.19,No Especificado,estado_invalido
+2803,17397,2025-08-24,14974.86,No Especificado,estado_invalido
+2805,2718,2025-09-21,12803.79,No Especificado,estado_invalido
+2807,2759,2025-07-10,13770.32,No Especificado,estado_invalido
+2809,21370,2025-06-25,4490.69,No Especificado,estado_invalido
+2810,7706,2025-10-04,12173.5,No Especificado,estado_invalido
+2814,9526,2025-09-11,,Abierto,montoSiniestro_invalido
+2817,23212,2025-06-08,12828.57,No Especificado,estado_invalido
+2818,14166,2025-03-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+2821,15615,2025-07-29,,Abierto,montoSiniestro_invalido
+2823,6909,2026-01-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+2824,821,2025-05-16,,Cerrado,montoSiniestro_invalido
+2826,5623,2025-01-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+2831,19553,2025-03-25,5951.97,No Especificado,estado_invalido
+2832,18803,2025-07-06,,Abierto,montoSiniestro_invalido
+2834,20538,2025-05-02,1515.17,No Especificado,estado_invalido
+2837,22851,2025-05-19,13988.02,No Especificado,estado_invalido
+2838,2989,2025-09-07,4393.15,No Especificado,estado_invalido
+2841,5596,2025-11-04,12618.66,No Especificado,estado_invalido
+2850,8386,2025-11-17,,Rechazado,montoSiniestro_invalido
+2852,1244,2025-05-15,1816.17,No Especificado,estado_invalido
+2853,4458,2026-02-05,,No Especificado,montoSiniestro_invalido;estado_invalido
+2855,18077,2026-02-15,5377.4,No Especificado,estado_invalido
+2857,10957,2025-11-24,,Cerrado,montoSiniestro_invalido
+2861,10194,2025-08-20,,Cerrado,montoSiniestro_invalido
+2863,16662,2025-05-05,,Cerrado,montoSiniestro_invalido
+2864,149,2025-11-02,8755.4,No Especificado,estado_invalido
+2865,17587,2025-08-12,-3183.57,No Especificado,estado_invalido
+2867,20929,2025-02-19,8919.56,No Especificado,estado_invalido
+2870,19057,2025-03-19,5475.6,No Especificado,estado_invalido
+2872,18128,2025-07-01,12508.44,No Especificado,estado_invalido
+2874,3553,2025-06-23,8471.81,No Especificado,estado_invalido
+2875,7102,2025-09-19,,Rechazado,montoSiniestro_invalido
+2876,22276,2025-09-27,5568.47,No Especificado,estado_invalido
+2879,4472,2025-01-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+2880,12403,2025-10-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+2882,13898,2025-06-28,,No Especificado,montoSiniestro_invalido;estado_invalido
+2883,22481,2025-03-30,,Cerrado,montoSiniestro_invalido
+2887,15678,2025-03-16,,Cerrado,montoSiniestro_invalido
+2891,9020,2025-12-31,,No Especificado,montoSiniestro_invalido;estado_invalido
+2892,20091,2025-12-01,12359.38,No Especificado,estado_invalido
+2893,20889,2025-06-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+2894,6093,2025-01-29,,Rechazado,montoSiniestro_invalido
+2895,21752,2026-02-24,,Cerrado,montoSiniestro_invalido
+2896,8317,2025-10-08,8447.44,No Especificado,estado_invalido
+2899,16523,2026-09-02,2978.67,No Especificado,estado_invalido
+2901,12137,2025-01-23,2466.03,No Especificado,estado_invalido
+2904,2061,2025-08-15,678.66,No Especificado,estado_invalido
+2906,765,2025-06-10,,Rechazado,montoSiniestro_invalido
+2908,10500,2025-01-25,14002.0,No Especificado,estado_invalido
+2909,13727,2025-06-20,14365.5,No Especificado,estado_invalido
+2910,24779,2025-07-13,12385.96,No Especificado,estado_invalido
+2911,20021,2025-09-26,,Cerrado,montoSiniestro_invalido
+2912,9939,2025-05-22,-3369.0,No Especificado,estado_invalido
+2916,3435,2025-05-03,,Rechazado,montoSiniestro_invalido
+2918,1151,2025-05-10,,Abierto,montoSiniestro_invalido
+2919,14747,2025-06-20,,Rechazado,montoSiniestro_invalido
+2921,8024,2026-02-13,,Abierto,montoSiniestro_invalido
+2923,12812,2025-12-11,9303.42,No Especificado,estado_invalido
+2925,19897,2025-03-31,,Cerrado,montoSiniestro_invalido
+2928,7039,2025-06-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+2930,12839,2025-08-31,6298.0,No Especificado,estado_invalido
+2935,22511,2025-07-11,,Abierto,montoSiniestro_invalido
+2937,15378,2025-10-15,,Cerrado,montoSiniestro_invalido
+2939,11677,2025-02-12,,Abierto,montoSiniestro_invalido
+2941,14196,2025-09-24,10900.06,No Especificado,estado_invalido
+2943,213,2025-11-25,8998.13,No Especificado,estado_invalido
+2945,20203,2025-01-01,884.96,No Especificado,estado_invalido
+2949,192,2025-03-09,9990.73,No Especificado,estado_invalido
+2951,24089,2025-10-09,10153.4,No Especificado,estado_invalido
+2957,17879,2025-03-25,1289.99,No Especificado,estado_invalido
+2961,21717,2025-08-17,,Abierto,montoSiniestro_invalido
+2967,24571,2025-10-17,,Abierto,montoSiniestro_invalido
+2968,12834,2025-09-14,7644.09,No Especificado,estado_invalido
+2969,18377,2026-01-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+2970,24501,2025-05-01,932.75,No Especificado,estado_invalido
+2971,21475,2025-05-06,1534.32,No Especificado,estado_invalido
+2973,5526,2026-01-10,10104.7,No Especificado,estado_invalido
+2975,20707,2025-03-12,14143.34,No Especificado,estado_invalido
+2977,3636,2025-11-10,3418.67,No Especificado,estado_invalido
+2981,4055,2025-11-16,,Abierto,montoSiniestro_invalido
+2982,17721,2025-11-25,2800.19,No Especificado,estado_invalido
+2983,6014,2025-07-28,3339.49,No Especificado,estado_invalido
+2987,12498,2026-01-30,6005.74,No Especificado,estado_invalido
+2989,11057,2025-05-26,,Cerrado,montoSiniestro_invalido
+2990,755,2025-06-06,3204.48,No Especificado,estado_invalido
+2993,7625,2025-07-18,14655.52,No Especificado,estado_invalido
+2996,2461,2025-09-28,854.8,No Especificado,estado_invalido
+2997,1941,2025-11-22,6589.31,No Especificado,estado_invalido
+3000,8729,2025-12-05,8678.22,No Especificado,estado_invalido
+3002,11675,2025-02-21,7552.22,No Especificado,estado_invalido
+3007,22295,2025-11-24,,Abierto,montoSiniestro_invalido
+3008,18810,2025-05-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+3009,23444,2025-04-08,706.51,No Especificado,estado_invalido
+3010,25773,2025-03-26,12099.42,No Especificado,estado_invalido
+3012,23196,2025-07-10,,Cerrado,montoSiniestro_invalido
+3018,18302,2026-01-14,,Abierto,montoSiniestro_invalido
+3020,15920,2025-05-15,9639.36,No Especificado,estado_invalido
+3022,14740,2025-02-28,125.04,No Especificado,estado_invalido
+3024,18872,2026-02-07,7350.49,No Especificado,estado_invalido
+3026,6156,2025-09-09,11083.07,No Especificado,estado_invalido
+3027,25899,2025-12-11,,Cerrado,montoSiniestro_invalido
+3029,6138,2025-09-25,,Cerrado,montoSiniestro_invalido
+3030,6637,2025-12-14,7434.46,No Especificado,estado_invalido
+3031,23201,2026-02-20,6398.43,No Especificado,estado_invalido
+3033,9852,2025-11-13,2884.45,No Especificado,estado_invalido
+3041,13292,2025-11-24,10237.62,No Especificado,estado_invalido
+3044,1888,2026-02-01,,Cerrado,montoSiniestro_invalido
+3050,18418,2025-03-14,,Rechazado,montoSiniestro_invalido
+3052,25650,2025-10-01,,Cerrado,montoSiniestro_invalido
+3053,4322,2025-07-19,5305.78,No Especificado,estado_invalido
+3056,24661,2025-04-24,,Abierto,montoSiniestro_invalido
+3057,24005,2025-02-17,,Abierto,montoSiniestro_invalido
+3058,13765,2026-01-15,,Cerrado,montoSiniestro_invalido
+3062,24613,2025-09-06,,Abierto,montoSiniestro_invalido
+3064,8212,2025-05-22,,No Especificado,montoSiniestro_invalido;estado_invalido
+3065,9245,2025-11-26,,Rechazado,montoSiniestro_invalido
+3069,4622,2025-05-21,12237.77,No Especificado,estado_invalido
+3073,9590,2026-02-01,5305.12,No Especificado,estado_invalido
+3076,24191,2025-04-07,8959.6,No Especificado,estado_invalido
+3077,22059,2025-01-17,13463.42,No Especificado,estado_invalido
+3078,1803,2025-11-01,,Rechazado,montoSiniestro_invalido
+3079,19314,2025-06-19,184.15,No Especificado,estado_invalido
+3080,24421,2025-04-23,,Rechazado,montoSiniestro_invalido
+3082,5250,2026-01-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+3084,17071,2025-09-29,1133.04,No Especificado,estado_invalido
+3085,3836,2025-07-13,13227.97,No Especificado,estado_invalido
+3087,5203,2025-04-20,,Cerrado,montoSiniestro_invalido
+3092,1903,2025-07-08,,Cerrado,montoSiniestro_invalido
+3093,21654,2025-02-10,4278.0,No Especificado,estado_invalido
+3096,12359,2025-01-06,12141.5,No Especificado,estado_invalido
+3098,11633,2025-06-11,,Abierto,montoSiniestro_invalido
+3099,3847,2025-09-27,,Cerrado,montoSiniestro_invalido
+3101,15691,2025-06-29,,Abierto,montoSiniestro_invalido
+3103,17124,2025-07-09,,Cerrado,montoSiniestro_invalido
+3104,24816,2026-01-31,,Cerrado,montoSiniestro_invalido
+3105,571,2025-08-13,12334.86,No Especificado,estado_invalido
+3106,16288,2025-08-06,6767.62,No Especificado,estado_invalido
+3107,4475,2025-02-13,9998.35,No Especificado,estado_invalido
+3108,24061,2025-12-25,3966.29,No Especificado,estado_invalido
+3110,24551,2025-02-21,9050.9,No Especificado,estado_invalido
+3111,277,2025-06-15,611.79,No Especificado,estado_invalido
+3112,11767,2025-02-19,,Rechazado,montoSiniestro_invalido
+3113,7580,2025-02-21,706.28,No Especificado,estado_invalido
+3115,14045,2025-05-29,5067.28,No Especificado,estado_invalido
+3116,3172,2025-08-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+3119,10564,2025-11-09,,Cerrado,montoSiniestro_invalido
+3120,7369,2025-10-12,,Abierto,montoSiniestro_invalido
+3121,4443,2025-02-28,3949.14,No Especificado,estado_invalido
+3123,6459,2025-04-22,9887.06,No Especificado,estado_invalido
+3124,4464,2025-02-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+3125,16072,2025-07-18,5361.35,No Especificado,estado_invalido
+3127,1654,2025-01-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+3129,15637,2025-10-25,14735.81,No Especificado,estado_invalido
+3130,18367,2025-10-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+3135,25602,2025-06-23,,Abierto,montoSiniestro_invalido
+3142,12240,2026-07-01,,Rechazado,montoSiniestro_invalido
+3148,2823,2025-09-30,,Cerrado,montoSiniestro_invalido
+3150,19889,2025-11-21,,Abierto,montoSiniestro_invalido
+3158,14730,2025-12-27,,No Especificado,montoSiniestro_invalido;estado_invalido
+3161,3384,2025-03-22,,No Especificado,montoSiniestro_invalido;estado_invalido
+3162,180,2025-05-14,6252.76,No Especificado,estado_invalido
+3165,16787,2025-05-02,,Cerrado,montoSiniestro_invalido
+3166,23806,2025-10-23,,Rechazado,montoSiniestro_invalido
+3169,19596,2025-10-25,8017.98,No Especificado,estado_invalido
+3175,13535,2026-01-21,,Cerrado,montoSiniestro_invalido
+3176,10734,2025-07-19,2301.35,No Especificado,estado_invalido
+3177,2222,2025-03-13,3643.17,No Especificado,estado_invalido
+3178,5013,2025-01-02,9810.01,No Especificado,estado_invalido
+3180,15254,2025-08-14,,Abierto,montoSiniestro_invalido
+3182,20593,2025-01-02,,Cerrado,montoSiniestro_invalido
+3184,21952,2026-02-03,13645.1,No Especificado,estado_invalido
+3188,6623,2025-05-31,7076.52,No Especificado,estado_invalido
+3191,14150,2025-07-13,3091.79,No Especificado,estado_invalido
+3192,21392,2025-02-01,,Cerrado,montoSiniestro_invalido
+3193,6617,2025-08-29,2381.86,No Especificado,estado_invalido
+3194,24742,2025-03-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+3195,21388,2025-03-19,,Cerrado,montoSiniestro_invalido
+3204,24110,2025-08-08,8557.18,No Especificado,estado_invalido
+3206,24309,2025-08-01,,Rechazado,montoSiniestro_invalido
+3209,13709,2025-09-19,12802.75,No Especificado,estado_invalido
+3210,17248,2025-07-02,11834.59,No Especificado,estado_invalido
+3211,19250,2025-05-10,13331.34,No Especificado,estado_invalido
+3212,16499,2025-03-06,,Cerrado,montoSiniestro_invalido
+3213,6084,2026-01-28,8118.57,No Especificado,estado_invalido
+3215,13465,2025-11-21,,Abierto,montoSiniestro_invalido
+3216,7338,2025-01-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+3218,17302,2025-02-23,,No Especificado,montoSiniestro_invalido;estado_invalido
+3221,21324,2025-08-14,6960.34,No Especificado,estado_invalido
+3223,21176,2025-07-12,9328.66,No Especificado,estado_invalido
+3227,22013,2025-05-16,,Abierto,montoSiniestro_invalido
+3228,7743,2025-10-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+3232,21792,2025-05-02,3838.13,No Especificado,estado_invalido
+3233,14994,2025-02-01,3924.77,No Especificado,estado_invalido
+3241,6890,2025-07-18,1941.27,No Especificado,estado_invalido
+3242,21997,2025-12-21,,Cerrado,montoSiniestro_invalido
+3243,3778,2025-08-14,3464.48,No Especificado,estado_invalido
+3244,9326,2025-09-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+3245,22117,2025-06-06,,Rechazado,montoSiniestro_invalido
+3247,19372,2025-09-15,12859.86,No Especificado,estado_invalido
+3249,7469,2025-08-18,2471.1,No Especificado,estado_invalido
+3251,24995,2025-04-12,12666.97,No Especificado,estado_invalido
+3254,18828,2025-12-19,14209.33,No Especificado,estado_invalido
+3255,8724,2025-09-13,,Cerrado,montoSiniestro_invalido
+3258,4577,2025-07-12,5226.13,No Especificado,estado_invalido
+3261,19802,2025-03-28,2639.1,No Especificado,estado_invalido
+3263,2752,2025-06-06,10545.28,No Especificado,estado_invalido
+3264,175,2025-02-07,10332.45,No Especificado,estado_invalido
+3265,21392,2025-12-09,8545.96,No Especificado,estado_invalido
+3266,18734,2026-02-20,2064.14,No Especificado,estado_invalido
+3268,15504,2025-06-21,8455.66,No Especificado,estado_invalido
+3270,21943,2026-01-02,3422.63,No Especificado,estado_invalido
+3271,6023,2026-02-01,5263.68,No Especificado,estado_invalido
+3273,13272,2025-09-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+3277,16633,2026-09-01,,No Especificado,montoSiniestro_invalido;estado_invalido
+3279,10568,2025-01-21,,Abierto,montoSiniestro_invalido
+3280,8890,2025-06-27,6179.99,No Especificado,estado_invalido
+3284,12326,2025-01-07,,Rechazado,montoSiniestro_invalido
+3285,13404,2025-07-03,3107.51,No Especificado,estado_invalido
+3291,1711,2025-03-15,,Abierto,montoSiniestro_invalido
+3292,370,2025-03-29,5277.56,No Especificado,estado_invalido
+3294,18628,2025-04-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+3295,12362,2025-04-07,11017.75,No Especificado,estado_invalido
+3297,5781,2025-07-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+3300,10525,2025-06-13,10056.76,No Especificado,estado_invalido
+3302,4474,2025-06-24,3001.61,No Especificado,estado_invalido
+3303,2934,2025-06-01,5923.8,No Especificado,estado_invalido
+3305,24713,2025-04-25,868.17,No Especificado,estado_invalido
+3308,22550,2025-07-30,3580.96,No Especificado,estado_invalido
+3309,9748,2025-08-10,,Abierto,montoSiniestro_invalido
+3311,11519,2025-06-09,7134.0,No Especificado,estado_invalido
+3314,979,2025-10-23,,Abierto,montoSiniestro_invalido
+3315,23895,2025-07-27,,Cerrado,montoSiniestro_invalido
+3316,18277,2025-06-06,6942.92,No Especificado,estado_invalido
+3319,2029,2026-04-01,,Abierto,montoSiniestro_invalido
+3320,14408,2025-07-21,6701.58,No Especificado,estado_invalido
+3322,5414,2025-05-24,7264.93,No Especificado,estado_invalido
+3324,7566,2025-08-01,3158.93,No Especificado,estado_invalido
+3326,993,2025-04-20,3848.98,No Especificado,estado_invalido
+3331,6152,2025-08-26,1782.47,No Especificado,estado_invalido
+3332,12461,2025-12-07,7393.7,No Especificado,estado_invalido
+3335,13337,2025-12-31,,Cerrado,montoSiniestro_invalido
+3339,21320,2025-07-04,8348.53,No Especificado,estado_invalido
+3342,1654,2025-04-14,7089.23,No Especificado,estado_invalido
+3343,25738,2025-05-03,4499.64,No Especificado,estado_invalido
+3344,1995,2025-12-26,8064.25,No Especificado,estado_invalido
+3345,24900,2026-01-10,,Cerrado,montoSiniestro_invalido
+3348,5076,2026-01-28,,Rechazado,montoSiniestro_invalido
+3353,17831,2025-08-28,6786.95,No Especificado,estado_invalido
+3355,21609,2025-05-04,1783.05,No Especificado,estado_invalido
+3366,23219,2025-09-23,2033.49,No Especificado,estado_invalido
+3369,9661,2025-12-24,4641.9,No Especificado,estado_invalido
+3370,292,2025-12-10,10444.99,No Especificado,estado_invalido
+3372,851,2025-08-09,12281.29,No Especificado,estado_invalido
+3376,17254,2025-06-22,7643.96,No Especificado,estado_invalido
+3384,1367,2025-03-27,,No Especificado,montoSiniestro_invalido;estado_invalido
+3385,9615,2025-11-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+3388,5806,2025-02-23,14537.3,No Especificado,estado_invalido
+3389,19010,2025-11-28,,No Especificado,montoSiniestro_invalido;estado_invalido
+3390,8712,2025-03-10,4294.15,No Especificado,estado_invalido
+3392,3341,2025-04-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+3396,14943,2025-06-21,,Cerrado,montoSiniestro_invalido
+3398,16928,2025-12-22,,Cerrado,montoSiniestro_invalido
+3399,6457,2025-07-18,,Cerrado,montoSiniestro_invalido
+3405,5479,2025-03-18,,Rechazado,montoSiniestro_invalido
+3406,24812,2025-12-06,,Cerrado,montoSiniestro_invalido
+3409,13067,2026-01-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+3412,24173,2025-10-17,,No Especificado,montoSiniestro_invalido;estado_invalido
+3414,23814,2025-11-11,3840.99,No Especificado,estado_invalido
+3415,16069,2025-08-17,4199.51,No Especificado,estado_invalido
+3416,13499,2026-01-14,10461.53,No Especificado,estado_invalido
+3417,3873,2026-01-25,,Cerrado,montoSiniestro_invalido
+3418,9048,2025-08-19,2451.88,No Especificado,estado_invalido
+3419,19444,2025-07-03,,No Especificado,montoSiniestro_invalido;estado_invalido
+3420,18,2025-11-21,,Abierto,montoSiniestro_invalido
+3422,266,2025-09-15,14527.08,No Especificado,estado_invalido
+3423,10050,2026-01-26,,Cerrado,montoSiniestro_invalido
+3425,20481,2025-06-24,,Cerrado,montoSiniestro_invalido
+3427,946,2025-01-02,,Rechazado,montoSiniestro_invalido
+3429,23284,2025-09-24,,No Especificado,montoSiniestro_invalido;estado_invalido
+3437,6351,2026-06-01,8401.05,No Especificado,estado_invalido
+3439,13817,2025-02-27,,No Especificado,montoSiniestro_invalido;estado_invalido
+3441,22107,2025-08-02,,Abierto,montoSiniestro_invalido
+3442,15431,2025-06-01,,Cerrado,montoSiniestro_invalido
+3443,8510,2025-10-06,10056.65,No Especificado,estado_invalido
+3446,11131,2025-08-10,,Cerrado,montoSiniestro_invalido
+3451,13884,2025-11-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+3452,6028,2025-11-15,14266.22,No Especificado,estado_invalido
+3456,3056,2025-03-04,1495.79,No Especificado,estado_invalido
+3458,10026,2025-10-26,,Cerrado,montoSiniestro_invalido
+3459,13510,2025-03-10,1364.72,No Especificado,estado_invalido
+3465,13544,2025-03-22,,Cerrado,montoSiniestro_invalido
+3466,6692,2025-12-19,,Rechazado,montoSiniestro_invalido
+3469,24326,2026-02-08,6645.83,No Especificado,estado_invalido
+3472,5138,2025-09-30,706.03,No Especificado,estado_invalido
+3475,24644,2025-02-15,441.68,No Especificado,estado_invalido
+3476,12166,2025-12-24,12984.63,No Especificado,estado_invalido
+3480,10364,2025-10-14,,Cerrado,montoSiniestro_invalido
+3481,3285,2025-11-27,838.68,No Especificado,estado_invalido
+3482,10984,2025-05-10,4761.32,No Especificado,estado_invalido
+3483,548,2025-08-31,,No Especificado,montoSiniestro_invalido;estado_invalido
+3484,25658,2025-06-23,7169.55,No Especificado,estado_invalido
+3485,16014,2025-03-01,3806.25,No Especificado,estado_invalido
+3486,13937,2025-11-13,10746.04,No Especificado,estado_invalido
+3488,23895,2025-10-15,,Abierto,montoSiniestro_invalido
+3492,20294,2025-06-12,10716.07,No Especificado,estado_invalido
+3493,5046,2025-07-07,3643.09,No Especificado,estado_invalido
+3495,9259,2026-01-08,,Abierto,montoSiniestro_invalido
+3497,14901,2025-05-26,2471.77,No Especificado,estado_invalido
+3501,18891,2025-12-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+3502,8081,2025-06-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+3504,11346,2025-05-05,,No Especificado,montoSiniestro_invalido;estado_invalido
+3507,3349,2025-02-05,,No Especificado,montoSiniestro_invalido;estado_invalido
+3508,22129,2025-09-18,9039.02,No Especificado,estado_invalido
+3509,18194,2025-12-30,2757.05,No Especificado,estado_invalido
+3510,25,2025-10-08,13009.48,No Especificado,estado_invalido
+3512,10191,2025-01-15,2182.12,No Especificado,estado_invalido
+3516,8983,2026-01-31,13558.2,No Especificado,estado_invalido
+3518,5093,2025-04-20,891.98,No Especificado,estado_invalido
+3519,8836,2025-09-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+3524,7652,2025-11-04,,No Especificado,montoSiniestro_invalido;estado_invalido
+3527,15547,2025-10-14,7522.5,No Especificado,estado_invalido
+3530,17762,2025-07-31,,Abierto,montoSiniestro_invalido
+3533,21048,2025-02-23,13697.87,No Especificado,estado_invalido
+3534,2876,2025-04-08,,Rechazado,montoSiniestro_invalido
+3537,24015,2025-02-11,10150.84,No Especificado,estado_invalido
+3538,1345,2026-12-01,,Cerrado,montoSiniestro_invalido
+3539,25648,2025-12-24,8540.58,No Especificado,estado_invalido
+3545,7239,2025-09-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+3546,1257,2025-06-15,,Cerrado,montoSiniestro_invalido
+3550,23645,2026-02-24,,Cerrado,montoSiniestro_invalido
+3552,15512,2025-04-19,,No Especificado,montoSiniestro_invalido;estado_invalido
+3555,23779,2025-07-28,1226.39,No Especificado,estado_invalido
+3557,8401,2025-04-28,,Abierto,montoSiniestro_invalido
+3560,18806,2025-04-09,,Cerrado,montoSiniestro_invalido
+3562,25632,2025-11-04,,Cerrado,montoSiniestro_invalido
+3565,16432,2025-02-04,7620.6,No Especificado,estado_invalido
+3567,14450,2025-11-13,,No Especificado,montoSiniestro_invalido;estado_invalido
+3570,16393,2025-06-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+3571,9806,2025-06-29,8378.61,No Especificado,estado_invalido
+3572,4216,2025-11-23,7426.75,No Especificado,estado_invalido
+3573,10249,2025-12-25,8961.5,No Especificado,estado_invalido
+3577,25650,2025-09-14,,Rechazado,montoSiniestro_invalido
+3582,3284,2026-02-11,1771.01,No Especificado,estado_invalido
+3584,6152,2025-05-22,,No Especificado,montoSiniestro_invalido;estado_invalido
+3586,12542,2025-11-08,5387.28,No Especificado,estado_invalido
+3587,507,2025-08-24,,Rechazado,montoSiniestro_invalido
+3588,14560,2025-11-05,514.33,No Especificado,estado_invalido
+3590,25774,2025-11-29,,No Especificado,montoSiniestro_invalido;estado_invalido
+3592,12181,2025-01-15,9905.61,No Especificado,estado_invalido
+3593,23667,2025-07-21,,Cerrado,montoSiniestro_invalido
+3594,21287,2025-11-27,2696.59,No Especificado,estado_invalido
+3598,3201,2025-07-24,3337.73,No Especificado,estado_invalido
+3600,19340,2025-10-20,,Rechazado,montoSiniestro_invalido
+3601,20525,2026-05-02,,Rechazado,montoSiniestro_invalido
+3602,20445,2026-01-01,,Abierto,montoSiniestro_invalido
+3605,23807,2025-01-26,3633.79,No Especificado,estado_invalido
+3611,10537,2025-06-29,,Abierto,montoSiniestro_invalido
+3614,13738,2026-01-31,8077.38,No Especificado,estado_invalido
+3618,16604,2025-05-28,7815.24,No Especificado,estado_invalido
+3621,198,2025-04-24,,Cerrado,montoSiniestro_invalido
+3623,8315,2025-07-20,,Abierto,montoSiniestro_invalido
+3626,8247,2025-05-26,10232.98,No Especificado,estado_invalido
+3627,15450,2025-09-26,9880.85,No Especificado,estado_invalido
+3632,11730,2025-04-30,,Cerrado,montoSiniestro_invalido
+3633,15157,2025-11-19,4535.49,No Especificado,estado_invalido
+3634,20387,2025-07-13,,Rechazado,montoSiniestro_invalido
+3636,2605,2025-03-03,7899.99,No Especificado,estado_invalido
+3638,5867,2025-11-30,13336.08,No Especificado,estado_invalido
+3639,14954,2025-11-24,,Cerrado,montoSiniestro_invalido
+3640,828,2025-08-17,14994.75,No Especificado,estado_invalido
+3641,6716,2025-08-21,585.42,No Especificado,estado_invalido
+3646,15001,2025-04-12,,No Especificado,montoSiniestro_invalido;estado_invalido
+3647,16785,2025-04-14,,Abierto,montoSiniestro_invalido
+3649,21390,2025-01-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+3651,17717,2025-10-11,,Cerrado,montoSiniestro_invalido
+3655,14874,2025-01-05,14325.34,No Especificado,estado_invalido
+3656,24618,2026-02-09,3219.25,No Especificado,estado_invalido
+3657,15950,2025-01-19,11571.88,No Especificado,estado_invalido
+3663,10279,2025-06-22,,Rechazado,montoSiniestro_invalido
+3665,5478,2025-09-20,265.72,No Especificado,estado_invalido
+3669,3060,2025-07-12,13639.76,No Especificado,estado_invalido
+3670,755,2025-09-21,11756.61,No Especificado,estado_invalido
+3671,23288,2025-10-22,8923.47,No Especificado,estado_invalido
+3674,14363,2025-01-12,8756.27,No Especificado,estado_invalido
+3675,4333,2026-08-02,1900.76,No Especificado,estado_invalido
+3677,19247,2025-10-27,7118.02,No Especificado,estado_invalido
+3682,5802,2025-05-31,,No Especificado,montoSiniestro_invalido;estado_invalido
+3684,12106,2025-09-23,9742.07,No Especificado,estado_invalido
+3686,16992,2025-05-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+3688,7368,2025-12-11,,Abierto,montoSiniestro_invalido
+3689,6190,2025-10-22,1702.18,No Especificado,estado_invalido
+3692,20163,2025-02-21,6793.57,No Especificado,estado_invalido
+3698,11276,2025-02-12,1773.18,No Especificado,estado_invalido
+3701,18229,2026-01-29,,No Especificado,montoSiniestro_invalido;estado_invalido
+3702,2415,2025-12-21,,Cerrado,montoSiniestro_invalido
+3704,20207,2025-01-16,6431.65,No Especificado,estado_invalido
+3709,10801,2025-03-16,,Abierto,montoSiniestro_invalido
+3711,2480,2025-02-22,508.21,No Especificado,estado_invalido
+3714,21261,2025-06-14,10969.6,No Especificado,estado_invalido
+3716,7097,2025-09-27,11487.91,No Especificado,estado_invalido
+3721,10148,2025-04-23,,Cerrado,montoSiniestro_invalido
+3724,9379,2025-02-25,,Cerrado,montoSiniestro_invalido
+3725,23346,2025-12-17,13537.48,No Especificado,estado_invalido
+3730,6287,2025-11-11,,Cerrado,montoSiniestro_invalido
+3731,12709,2025-02-02,14234.59,No Especificado,estado_invalido
+3734,4938,2026-01-10,5073.75,No Especificado,estado_invalido
+3735,10887,2025-05-04,6699.66,No Especificado,estado_invalido
+3738,3994,2025-05-01,,Abierto,montoSiniestro_invalido
+3743,17359,2025-12-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+3752,12042,2025-08-21,,Cerrado,montoSiniestro_invalido
+3754,24268,2025-08-30,14928.13,No Especificado,estado_invalido
+3761,13020,2025-06-10,14515.43,No Especificado,estado_invalido
+3765,21952,2025-03-04,1414.62,No Especificado,estado_invalido
+3772,20463,2025-12-07,,Cerrado,montoSiniestro_invalido
+3777,5522,2025-02-13,13528.1,No Especificado,estado_invalido
+3778,8641,2025-12-13,9202.38,No Especificado,estado_invalido
+3779,15055,2025-10-12,,No Especificado,montoSiniestro_invalido;estado_invalido
+3782,25672,2025-11-30,1493.78,No Especificado,estado_invalido
+3784,13494,2025-01-01,8987.15,No Especificado,estado_invalido
+3787,2682,2025-06-06,13275.06,No Especificado,estado_invalido
+3790,21552,2025-04-08,,Cerrado,montoSiniestro_invalido
+3793,25540,2026-02-15,5437.21,No Especificado,estado_invalido
+3794,14189,2025-10-12,,Cerrado,montoSiniestro_invalido
+3796,18333,2025-09-04,,No Especificado,montoSiniestro_invalido;estado_invalido
+3800,8810,2025-04-19,944.53,No Especificado,estado_invalido
+3802,25639,2025-05-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+3808,12949,2025-03-19,,Abierto,montoSiniestro_invalido
+3810,4416,2025-01-03,,Cerrado,montoSiniestro_invalido
+3811,7417,2025-04-15,14454.82,No Especificado,estado_invalido
+3813,10354,2025-05-22,11870.82,No Especificado,estado_invalido
+3814,2824,2025-11-26,,Cerrado,montoSiniestro_invalido
+3816,6134,2025-04-14,,Rechazado,montoSiniestro_invalido
+3817,22562,2025-04-07,,No Especificado,montoSiniestro_invalido;estado_invalido
+3820,17847,2025-08-21,,Cerrado,montoSiniestro_invalido
+3821,3088,2025-12-21,11389.62,No Especificado,estado_invalido
+3823,14949,2025-07-10,9296.93,No Especificado,estado_invalido
+3824,1372,2025-11-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+3826,24010,2025-10-19,11025.46,No Especificado,estado_invalido
+3827,16856,2025-01-26,12070.87,No Especificado,estado_invalido
+3828,5619,2025-09-01,4098.72,No Especificado,estado_invalido
+3831,7022,2025-01-05,,Abierto,montoSiniestro_invalido
+3833,8250,2025-12-15,,Abierto,montoSiniestro_invalido
+3834,23121,2026-02-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+3842,14173,2025-12-13,317.55,No Especificado,estado_invalido
+3845,22741,2025-06-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+3846,9358,2025-04-22,,No Especificado,montoSiniestro_invalido;estado_invalido
+3847,25696,2025-08-05,11775.7,No Especificado,estado_invalido
+3848,9077,2025-04-23,,Abierto,montoSiniestro_invalido
+3851,704,2025-07-03,,Abierto,montoSiniestro_invalido
+3853,25715,2025-11-02,434.42,No Especificado,estado_invalido
+3854,10853,2025-12-01,,Cerrado,montoSiniestro_invalido
+3855,1464,2026-02-23,11957.28,No Especificado,estado_invalido
+3856,8596,2025-06-27,7364.07,No Especificado,estado_invalido
+3857,22438,2025-05-26,5174.85,No Especificado,estado_invalido
+3858,9869,2025-10-06,,Cerrado,montoSiniestro_invalido
+3865,13863,2025-10-20,,Rechazado,montoSiniestro_invalido
+3866,21369,2026-02-07,2720.08,No Especificado,estado_invalido
+3869,15284,2025-03-04,8946.16,No Especificado,estado_invalido
+3871,7219,2025-11-03,976.46,No Especificado,estado_invalido
+3876,6786,2025-04-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+3880,10369,2026-01-02,10242.8,No Especificado,estado_invalido
+3882,23969,2025-04-06,,Abierto,montoSiniestro_invalido
+3883,16688,2025-01-01,11781.32,No Especificado,estado_invalido
+3885,23807,2026-04-02,,Abierto,montoSiniestro_invalido
+3886,16331,2025-05-25,2289.58,No Especificado,estado_invalido
+3889,12528,2025-12-16,,Abierto,montoSiniestro_invalido
+3890,13316,2025-10-27,2845.96,No Especificado,estado_invalido
+3893,16341,2025-04-02,10181.57,No Especificado,estado_invalido
+3896,5761,2025-12-13,4853.2,No Especificado,estado_invalido
+3903,25702,2025-11-30,2313.15,No Especificado,estado_invalido
+3904,2817,2025-08-22,7865.6,No Especificado,estado_invalido
+3911,21924,2025-02-18,3307.94,No Especificado,estado_invalido
+3913,5853,2025-10-01,,Abierto,montoSiniestro_invalido
+3919,5401,2025-11-06,4207.29,No Especificado,estado_invalido
+3925,11738,2025-12-12,,Rechazado,montoSiniestro_invalido
+3926,17850,2025-01-14,-3859.65,No Especificado,estado_invalido
+3931,18066,2025-10-02,,Abierto,montoSiniestro_invalido
+3935,3910,2025-08-24,,Abierto,montoSiniestro_invalido
+3938,18501,2025-10-24,,Abierto,montoSiniestro_invalido
+3941,22298,2026-01-26,,Abierto,montoSiniestro_invalido
+3944,15570,2025-10-26,10318.43,No Especificado,estado_invalido
+3945,17558,2025-01-16,1592.38,No Especificado,estado_invalido
+3946,3415,2025-05-19,,Rechazado,montoSiniestro_invalido
+3947,5119,2025-07-13,13690.59,No Especificado,estado_invalido
+3948,10677,2025-05-19,,Cerrado,montoSiniestro_invalido
+3949,17401,2025-08-11,5932.92,No Especificado,estado_invalido
+3950,22453,2025-10-26,14097.2,No Especificado,estado_invalido
+3951,3010,2025-05-27,,Cerrado,montoSiniestro_invalido
+3954,18091,2025-11-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+3955,25824,2025-12-05,,No Especificado,montoSiniestro_invalido;estado_invalido
+3957,5951,2026-01-19,,Abierto,montoSiniestro_invalido
+3960,14334,2025-09-24,11981.94,No Especificado,estado_invalido
+3961,14833,2025-10-21,11031.1,No Especificado,estado_invalido
+3967,13125,2025-03-29,10186.18,No Especificado,estado_invalido
+3969,16952,2025-02-01,,Abierto,montoSiniestro_invalido
+3970,13723,2026-01-22,12141.6,No Especificado,estado_invalido
+3973,20228,2025-08-29,775.93,No Especificado,estado_invalido
+3976,10969,2025-11-03,,Cerrado,montoSiniestro_invalido
+3977,14177,2026-01-02,,Abierto,montoSiniestro_invalido
+3978,886,2025-03-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+3980,18779,2025-06-19,13127.61,No Especificado,estado_invalido
+3983,15860,2025-08-22,,Abierto,montoSiniestro_invalido
+3986,24416,2025-12-11,,Rechazado,montoSiniestro_invalido
+3989,18542,2025-11-27,,No Especificado,montoSiniestro_invalido;estado_invalido
+3990,16239,2025-03-25,,Cerrado,montoSiniestro_invalido
+3991,17235,2025-07-02,,Cerrado,montoSiniestro_invalido
+3993,6283,2025-06-01,12236.04,No Especificado,estado_invalido
+3995,17779,2025-03-05,10785.66,No Especificado,estado_invalido
+3997,3671,2025-12-31,,Cerrado,montoSiniestro_invalido
+4000,3351,2025-10-28,5881.74,No Especificado,estado_invalido
+4001,17837,2025-01-18,9541.22,No Especificado,estado_invalido
+4003,23759,2025-03-19,,Abierto,montoSiniestro_invalido
+4006,248,2025-07-11,7891.22,No Especificado,estado_invalido
+4012,3590,2025-06-27,,Cerrado,montoSiniestro_invalido
+4013,7623,2025-12-01,2772.63,No Especificado,estado_invalido
+4016,25602,2025-07-23,,Cerrado,montoSiniestro_invalido
+4017,12731,2026-01-07,,Rechazado,montoSiniestro_invalido
+4018,24945,2025-07-06,,Cerrado,montoSiniestro_invalido
+4020,1030,2025-06-28,,No Especificado,montoSiniestro_invalido;estado_invalido
+4024,12345,2025-06-21,5801.61,No Especificado,estado_invalido
+4025,13140,2025-01-12,3065.48,No Especificado,estado_invalido
+4027,9849,2026-02-07,,Cerrado,montoSiniestro_invalido
+4030,30,2026-05-01,,Abierto,montoSiniestro_invalido
+4031,24139,2025-01-23,10048.22,No Especificado,estado_invalido
+4035,17977,2025-02-27,1926.12,No Especificado,estado_invalido
+4037,20719,2025-11-05,,No Especificado,montoSiniestro_invalido;estado_invalido
+4038,22016,2025-04-27,,Cerrado,montoSiniestro_invalido
+4041,17399,2025-02-02,10160.85,No Especificado,estado_invalido
+4043,3336,2025-09-23,8818.06,No Especificado,estado_invalido
+4044,14717,2025-05-09,11415.68,No Especificado,estado_invalido
+4046,20079,2025-08-22,8211.96,No Especificado,estado_invalido
+4052,22450,2026-12-01,7007.45,No Especificado,estado_invalido
+4055,11337,2026-01-19,,Cerrado,montoSiniestro_invalido
+4057,10452,2025-05-03,6291.7,No Especificado,estado_invalido
+4058,3699,2025-04-03,,Cerrado,montoSiniestro_invalido
+4060,14699,2025-05-16,,Cerrado,montoSiniestro_invalido
+4062,15191,2025-01-19,,No Especificado,montoSiniestro_invalido;estado_invalido
+4064,3513,2025-04-17,3957.85,No Especificado,estado_invalido
+4068,376,2025-11-02,2832.78,No Especificado,estado_invalido
+4073,18331,2025-07-30,,Abierto,montoSiniestro_invalido
+4074,16835,2025-01-27,3033.35,No Especificado,estado_invalido
+4078,7214,2025-07-05,4542.89,No Especificado,estado_invalido
+4080,20764,2025-08-29,9241.89,No Especificado,estado_invalido
+4083,19992,2025-01-23,,Rechazado,montoSiniestro_invalido
+4086,7633,2025-11-23,2487.26,No Especificado,estado_invalido
+4091,10644,2025-03-05,,Cerrado,montoSiniestro_invalido
+4094,9931,2025-05-15,,Abierto,montoSiniestro_invalido
+4097,12844,2025-08-25,6690.82,No Especificado,estado_invalido
+4102,3831,2026-02-06,,Cerrado,montoSiniestro_invalido
+4104,9108,2025-03-29,4879.54,No Especificado,estado_invalido
+4105,13968,2025-10-16,,Rechazado,montoSiniestro_invalido
+4109,18859,2025-12-11,11754.54,No Especificado,estado_invalido
+4110,18843,2025-05-30,10848.35,No Especificado,estado_invalido
+4111,23276,2025-02-18,,Cerrado,montoSiniestro_invalido
+4112,5449,2025-07-06,9514.74,No Especificado,estado_invalido
+4114,7426,2025-10-15,,Abierto,montoSiniestro_invalido
+4115,5001,2025-03-20,,Cerrado,montoSiniestro_invalido
+4116,8163,2025-07-28,,Abierto,montoSiniestro_invalido
+4119,7033,2026-02-03,2026.75,No Especificado,estado_invalido
+4124,2005,2025-08-15,14313.14,No Especificado,estado_invalido
+4125,7291,2025-01-04,4265.4,No Especificado,estado_invalido
+4129,24041,2025-04-25,14226.25,No Especificado,estado_invalido
+4132,22194,2025-06-26,5959.84,No Especificado,estado_invalido
+4135,1573,2025-09-28,9402.48,No Especificado,estado_invalido
+4136,5828,2025-10-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+4138,3535,2025-04-11,6194.66,No Especificado,estado_invalido
+4140,15109,2025-08-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+4142,4738,2026-01-30,6724.5,No Especificado,estado_invalido
+4144,3466,2025-12-12,,No Especificado,montoSiniestro_invalido;estado_invalido
+4146,18675,2025-04-19,4209.24,No Especificado,estado_invalido
+4147,17676,2026-01-18,,No Especificado,montoSiniestro_invalido;estado_invalido
+4150,25748,2025-08-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+4155,22871,2025-08-22,5204.25,No Especificado,estado_invalido
+4156,19213,2026-02-11,,Abierto,montoSiniestro_invalido
+4157,23912,2025-01-18,1619.19,No Especificado,estado_invalido
+4158,15553,2025-08-11,4375.85,No Especificado,estado_invalido
+4159,24415,2025-02-23,7808.66,No Especificado,estado_invalido
+4165,7239,2025-03-15,,No Especificado,montoSiniestro_invalido;estado_invalido
+4166,14145,2026-01-20,,Rechazado,montoSiniestro_invalido
+4168,1313,2025-06-10,9095.81,No Especificado,estado_invalido
+4170,18400,2025-10-05,,Rechazado,montoSiniestro_invalido
+4173,22521,2025-07-29,7042.02,No Especificado,estado_invalido
+4177,17744,2026-01-19,,Abierto,montoSiniestro_invalido
+4181,23084,2025-06-08,598.46,No Especificado,estado_invalido
+4182,17074,2025-10-08,,Abierto,montoSiniestro_invalido
+4183,13358,2025-11-11,6489.87,No Especificado,estado_invalido
+4185,12143,2026-01-13,7220.0,No Especificado,estado_invalido
+4188,8532,2026-02-22,,Rechazado,montoSiniestro_invalido
+4189,6200,2025-12-30,4735.41,No Especificado,estado_invalido
+4191,14049,2025-12-07,12056.6,No Especificado,estado_invalido
+4193,25503,2025-08-11,,No Especificado,montoSiniestro_invalido;estado_invalido
+4196,21257,2025-07-18,,Cerrado,montoSiniestro_invalido
+4198,18622,2025-11-20,,No Especificado,montoSiniestro_invalido;estado_invalido
+4199,10023,2025-07-17,12320.12,No Especificado,estado_invalido
+4201,185,2025-02-23,,Abierto,montoSiniestro_invalido
+4202,5826,2025-02-18,1738.61,No Especificado,estado_invalido
+4204,12576,2025-02-19,,Abierto,montoSiniestro_invalido
+4207,18106,2025-11-27,6687.19,No Especificado,estado_invalido
+4211,22179,2026-09-02,3176.21,No Especificado,estado_invalido
+4212,4533,2025-05-11,2152.46,No Especificado,estado_invalido
+4214,5744,2025-08-22,9169.16,No Especificado,estado_invalido
+4216,12781,2025-05-20,6012.5,No Especificado,estado_invalido
+4217,7882,2025-01-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+4220,13370,2025-03-27,,Abierto,montoSiniestro_invalido
+4225,1403,2025-02-25,316.2,No Especificado,estado_invalido
+4226,21250,2025-04-04,,Rechazado,montoSiniestro_invalido
+4228,19860,2025-11-19,,Cerrado,montoSiniestro_invalido
+4231,5166,2025-05-14,,Cerrado,montoSiniestro_invalido
+4232,6139,2025-05-14,8359.11,No Especificado,estado_invalido
+4233,3473,2025-01-28,1270.75,No Especificado,estado_invalido
+4234,18871,2026-01-13,,Rechazado,montoSiniestro_invalido
+4236,23353,2025-02-17,9432.99,No Especificado,estado_invalido
+4239,1406,2025-12-01,,Abierto,montoSiniestro_invalido
+4244,21575,2025-07-16,,Cerrado,montoSiniestro_invalido
+4245,19602,2025-03-28,,Abierto,montoSiniestro_invalido
+4246,2192,2025-03-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+4249,12741,2025-04-07,,Cerrado,montoSiniestro_invalido
+4255,14402,2026-12-01,9885.72,No Especificado,estado_invalido
+4259,14200,2025-03-30,,No Especificado,montoSiniestro_invalido;estado_invalido
+4261,11066,2025-06-11,9563.62,No Especificado,estado_invalido
+4262,4313,2025-05-31,8478.44,No Especificado,estado_invalido
+4263,18580,2025-02-23,4025.48,No Especificado,estado_invalido
+4265,703,2025-02-06,12384.06,No Especificado,estado_invalido
+4266,5447,2025-07-19,7272.89,No Especificado,estado_invalido
+4268,18469,2026-01-23,14950.94,No Especificado,estado_invalido
+4269,1614,2025-05-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+4272,24316,2025-12-01,8963.16,No Especificado,estado_invalido
+4273,4049,2025-04-18,4785.95,No Especificado,estado_invalido
+4277,23332,2025-07-03,11557.57,No Especificado,estado_invalido
+4281,7669,2025-07-15,,Abierto,montoSiniestro_invalido
+4285,8925,2025-08-24,,Abierto,montoSiniestro_invalido
+4286,24218,2026-01-28,14185.66,No Especificado,estado_invalido
+4287,5211,2025-07-27,,Abierto,montoSiniestro_invalido
+4288,24612,2025-06-20,,Abierto,montoSiniestro_invalido
+4291,22778,2026-08-01,,Cerrado,montoSiniestro_invalido
+4295,7853,2025-11-21,7470.14,No Especificado,estado_invalido
+4296,11409,2026-01-25,,Rechazado,montoSiniestro_invalido
+4298,19354,2025-09-03,2077.99,No Especificado,estado_invalido
+4299,16410,2025-12-16,9387.98,No Especificado,estado_invalido
+4300,21444,2025-03-01,3091.32,No Especificado,estado_invalido
+4302,19811,2025-01-26,,Cerrado,montoSiniestro_invalido
+4303,23535,2025-04-14,1648.0,No Especificado,estado_invalido
+4305,6276,2025-12-06,,Abierto,montoSiniestro_invalido
+4306,23988,2025-05-21,3954.87,No Especificado,estado_invalido
+4307,8802,2025-02-14,2341.93,No Especificado,estado_invalido
+4310,21328,2025-01-29,,No Especificado,montoSiniestro_invalido;estado_invalido
+4312,1944,2025-04-06,5478.38,No Especificado,estado_invalido
+4313,4327,2025-10-01,9522.07,No Especificado,estado_invalido
+4315,6242,2025-11-15,14884.81,No Especificado,estado_invalido
+4317,1829,2025-12-22,,Cerrado,montoSiniestro_invalido
+4318,5740,2025-05-14,9834.32,No Especificado,estado_invalido
+4320,14536,2025-10-29,,Abierto,montoSiniestro_invalido
+4321,4849,2025-09-15,5788.09,No Especificado,estado_invalido
+4322,5776,2025-05-03,,Abierto,montoSiniestro_invalido
+4325,14934,2025-10-23,,Abierto,montoSiniestro_invalido
+4327,15861,2025-01-07,430.7,No Especificado,estado_invalido
+4328,16628,2025-07-05,9861.67,No Especificado,estado_invalido
+4336,16399,2025-07-11,,Rechazado,montoSiniestro_invalido
+4339,7133,2025-03-18,,Cerrado,montoSiniestro_invalido
+4341,6381,2025-02-14,,No Especificado,montoSiniestro_invalido;estado_invalido
+4343,15786,2025-06-27,986.29,No Especificado,estado_invalido
+4346,13017,2026-04-01,5474.39,No Especificado,estado_invalido
+4347,15660,2025-08-31,12039.64,No Especificado,estado_invalido
+4348,20438,2026-02-24,255.59,No Especificado,estado_invalido
+4349,10458,2025-03-31,,No Especificado,montoSiniestro_invalido;estado_invalido
+4350,6656,2025-05-15,,Rechazado,montoSiniestro_invalido
+4351,18364,2025-08-25,5709.23,No Especificado,estado_invalido
+4353,4878,2025-03-14,,Cerrado,montoSiniestro_invalido
+4354,5163,2025-04-11,9295.32,No Especificado,estado_invalido
+4356,9946,2025-09-11,12657.53,No Especificado,estado_invalido
+4362,14305,2025-01-02,449.46,No Especificado,estado_invalido
+4363,18407,2025-12-08,,Cerrado,montoSiniestro_invalido
+4368,8084,2025-12-30,227.18,No Especificado,estado_invalido
+4370,21724,2025-12-22,,Rechazado,montoSiniestro_invalido
+4372,16537,2026-02-18,,Abierto,montoSiniestro_invalido
+4376,4985,2025-12-26,,No Especificado,montoSiniestro_invalido;estado_invalido
+4378,21246,2025-07-18,,Cerrado,montoSiniestro_invalido
+4386,25828,2025-03-07,,Rechazado,montoSiniestro_invalido
+4387,17814,2025-08-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+4390,11853,2025-11-04,,No Especificado,montoSiniestro_invalido;estado_invalido
+4391,24091,2025-12-03,,Abierto,montoSiniestro_invalido
+4394,12753,2025-01-26,7349.74,No Especificado,estado_invalido
+4395,10215,2025-03-29,8490.51,No Especificado,estado_invalido
+4396,23780,2025-12-12,,Abierto,montoSiniestro_invalido
+4397,15752,2025-12-04,10805.1,No Especificado,estado_invalido
+4401,11595,2025-03-09,,Cerrado,montoSiniestro_invalido
+4406,25582,2026-01-01,14505.76,No Especificado,estado_invalido
+4408,21903,2025-12-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+4409,8082,2025-06-07,-12646.94,No Especificado,estado_invalido
+4411,19896,2025-12-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+4416,7323,2025-12-31,,Cerrado,montoSiniestro_invalido
+4417,3083,2025-06-30,3389.56,No Especificado,estado_invalido
+4418,12601,2025-07-16,188.77,No Especificado,estado_invalido
+4423,20516,2025-09-09,,No Especificado,montoSiniestro_invalido;estado_invalido
+4425,16601,2025-12-25,3176.43,No Especificado,estado_invalido
+4427,19966,2025-01-07,,Rechazado,montoSiniestro_invalido
+4428,23407,2025-09-09,6736.28,No Especificado,estado_invalido
+4430,13574,2025-07-30,,Rechazado,montoSiniestro_invalido
+4432,19313,2025-04-13,,Cerrado,montoSiniestro_invalido
+4433,1044,2026-02-22,770.81,No Especificado,estado_invalido
+4434,14108,2025-10-17,4006.14,No Especificado,estado_invalido
+4435,9358,2025-04-26,,Rechazado,montoSiniestro_invalido
+4436,7863,2025-05-29,7145.83,No Especificado,estado_invalido
+4441,22667,2025-09-29,2315.32,No Especificado,estado_invalido
+4442,15701,2025-12-25,1926.98,No Especificado,estado_invalido
+4444,1176,2026-02-02,,Cerrado,montoSiniestro_invalido
+4448,11156,2025-06-08,4367.45,No Especificado,estado_invalido
+4453,15000,2025-10-19,1424.11,No Especificado,estado_invalido
+4459,2861,2025-03-19,13227.44,No Especificado,estado_invalido
+4460,5984,2025-11-30,,Cerrado,montoSiniestro_invalido
+4463,6612,2025-10-03,14421.4,No Especificado,estado_invalido
+4464,10527,2025-06-28,,No Especificado,montoSiniestro_invalido;estado_invalido
+4465,6580,2025-04-23,5471.71,No Especificado,estado_invalido
+4467,6052,2025-05-11,8873.95,No Especificado,estado_invalido
+4469,13487,2026-02-05,12767.08,No Especificado,estado_invalido
+4470,11277,2026-01-17,8693.71,No Especificado,estado_invalido
+4473,9227,2025-09-09,1585.15,No Especificado,estado_invalido
+4480,15144,2025-07-06,4008.01,No Especificado,estado_invalido
+4482,8080,2025-05-02,10298.79,No Especificado,estado_invalido
+4486,17879,2025-06-18,7142.66,No Especificado,estado_invalido
+4487,17751,2025-09-06,,Cerrado,montoSiniestro_invalido
+4488,17432,2025-12-14,6045.18,No Especificado,estado_invalido
+4490,14892,2025-08-17,,Cerrado,montoSiniestro_invalido
+4491,3845,2025-04-21,13337.06,No Especificado,estado_invalido
+4494,14612,2025-02-16,1756.64,No Especificado,estado_invalido
+4496,5574,2025-04-19,7123.41,No Especificado,estado_invalido
+4498,16975,2025-06-25,3166.6,No Especificado,estado_invalido
+4500,22220,2025-08-31,,No Especificado,montoSiniestro_invalido;estado_invalido
+4501,21736,2025-08-23,12466.51,No Especificado,estado_invalido
+4503,20163,2025-02-21,6793.57,No Especificado,estado_invalido
+4504,17235,2025-07-02,,Cerrado,montoSiniestro_invalido
+4506,9179,2026-11-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+4514,22198,2025-10-30,1454.97,No Especificado,estado_invalido
+4515,8925,2025-08-24,,Abierto,montoSiniestro_invalido
+4516,21581,2025-01-01,13247.47,No Especificado,estado_invalido
+4518,16114,2025-01-18,,Abierto,montoSiniestro_invalido
+4522,4758,2025-09-11,-1173.6,No Especificado,estado_invalido
+4524,17879,2025-06-18,7142.66,No Especificado,estado_invalido
+4525,17658,2025-09-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+4527,20455,2026-01-15,,Abierto,montoSiniestro_invalido
+4530,23938,2025-12-15,,Cerrado,montoSiniestro_invalido
+4531,18194,2025-12-30,2757.05,No Especificado,estado_invalido
+4532,10760,2025-03-09,14910.95,No Especificado,estado_invalido
+4533,6007,2025-10-15,,Abierto,montoSiniestro_invalido
+4536,3145,2025-08-11,2935.1,No Especificado,estado_invalido
+4541,8316,2025-09-10,,Cerrado,montoSiniestro_invalido
+4542,19676,2025-03-06,,No Especificado,montoSiniestro_invalido;estado_invalido
+4545,11966,2025-12-22,9243.01,No Especificado,estado_invalido
+4551,23121,2026-02-08,,No Especificado,montoSiniestro_invalido;estado_invalido
+4552,18789,2025-04-27,,Abierto,montoSiniestro_invalido
+4553,16274,2026-05-02,,No Especificado,montoSiniestro_invalido;estado_invalido
+4555,18230,2025-04-08,3242.03,No Especificado,estado_invalido
+4556,5828,2025-10-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+4558,16785,2025-04-14,,Abierto,montoSiniestro_invalido
+4559,17498,2025-08-25,,No Especificado,montoSiniestro_invalido;estado_invalido
+4560,22453,2025-10-26,14097.2,No Especificado,estado_invalido
+4561,21219,2025-03-07,4325.25,No Especificado,estado_invalido
+4563,10537,2025-06-29,,Abierto,montoSiniestro_invalido
+4564,17977,2025-02-27,1926.12,No Especificado,estado_invalido
+4565,3284,2026-02-11,1771.01,No Especificado,estado_invalido
+4574,22481,2025-03-30,,Cerrado,montoSiniestro_invalido
+4576,15660,2025-08-31,12039.64,No Especificado,estado_invalido
+4578,18230,2025-04-08,3242.03,No Especificado,estado_invalido
+4579,9596,2025-07-24,-6745.26,No Especificado,estado_invalido
+4581,13062,2025-08-16,,No Especificado,montoSiniestro_invalido;estado_invalido
+4583,11461,2025-04-12,6798.23,No Especificado,estado_invalido
+4586,13535,2026-01-21,,Cerrado,montoSiniestro_invalido
+4594,5951,2026-01-19,,Abierto,montoSiniestro_invalido
+4595,19811,2025-09-01,,Abierto,montoSiniestro_invalido
+4596,9774,2025-10-05,,Rechazado,montoSiniestro_invalido
+4597,25535,2025-04-22,,Cerrado,montoSiniestro_invalido
+4598,6093,2025-01-29,,Rechazado,montoSiniestro_invalido
+4601,8973,2025-09-17,169.84,No Especificado,estado_invalido
+4602,14699,2025-05-16,,Cerrado,montoSiniestro_invalido
+4603,21903,2025-12-10,,No Especificado,montoSiniestro_invalido;estado_invalido
+4604,21752,2026-02-24,,Cerrado,montoSiniestro_invalido
+4606,17248,2025-07-02,11834.59,No Especificado,estado_invalido
+4610,10983,2025-01-19,,No Especificado,montoSiniestro_invalido;estado_invalido
+4611,22410,2025-02-21,,No Especificado,montoSiniestro_invalido;estado_invalido
+4614,17643,2025-02-10,,Cerrado,montoSiniestro_invalido
+4615,3466,2025-12-12,,No Especificado,montoSiniestro_invalido;estado_invalido
+4616,12223,2025-09-19,5806.47,No Especificado,estado_invalido
+4618,10239,2025-10-26,,Abierto,montoSiniestro_invalido
+4619,18897,2025-12-29,354.26,No Especificado,estado_invalido
